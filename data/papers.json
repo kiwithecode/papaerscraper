@@ -1,0 +1,1040 @@
+[
+    {
+        "title": "Occluded Person Re-Identification Method Based on Multiscale Features and Human Feature Reconstruction",
+        "authors": "Yangyang Li;; Zichen Yang;; Yanqiao Chen;; Danqing Yang;; Ruijiao Liu;; Licheng Jiao; Yangyang Li;; Zichen Yang;; Yanqiao Chen;; Danqing Yang;; Ruijiao Liu;; Licheng Jiao",
+        "abstract": "Occluded Re-ID task is proposed mainly because people are often occluded by various obstacles in the real world, which greatly affects the accuracy of model matching.In view of the challenge of occluded Re-ID, the main work of this paper is as follows:(i) Aiming at the incompleteness of human body under occlusion, an occluded Re-ID method based on multi-scale features is proposed. A partial human ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874750"
+    },
+    {
+        "title": "Revisiting Dropout Regularization for Cross-Modality Person Re-Identification",
+        "authors": "Reza Fuad Rachmadi;; Supeno Mardi Susiki Nugroho;; I. Ketut Eddy Purnama; Reza Fuad Rachmadi;; Supeno Mardi Susiki Nugroho;; I. Ketut Eddy Purnama",
+        "abstract": "This paper investigated targeted dropout regularization for improving convolutional neural network classifier performance on cross-modality person re-identification problems. The dropout regularization is carefully applied on specific layers (targeted dropout regularization) or regions of the features map (spatially targeted dropout regularization). The intuition behind the spatially t...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9899391"
+    },
+    {
+        "title": "Occluded Person Re-Identification With Pose Estimation Correction and Feature Reconstruction",
+        "authors": "Zhigang Liu;; Qi Wang;; Miao Wang;; Yijun Zhao; Zhigang Liu;; Qi Wang;; Miao Wang;; Yijun Zhao",
+        "abstract": "In the real-world surveillance system application, the accuracy of person re-identification (Re-ID) still suffers from occlusion. Occluded Re-ID aims to retrieve occluded person images from multiple cameras that do not overlap. To address this issue, we present a multi-branch feature enhancement network in this paper. It has the pose correction module (PCM), the feature reconstru...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038705"
+    },
+    {
+        "title": "A Double Stream Person Re-Identification Method Based on Attention Mechanism and Multi-Scale Feature Fusion",
+        "authors": "Xiao Ma;; Wenqi Lv;; Meng Zhao; Xiao Ma;; Wenqi Lv;; Meng Zhao",
+        "abstract": "Person re-identification mainly plays a role in multiple non-overlapping camera monitoring environments to determine whether the target person of interest that has appeared under a camera appears again under others. However, the image data, in the real scene, taken by the surveillance camera may be occluded or blurred, which increased the difficulty of identifying the pedestrian ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043774"
+    },
+    {
+        "title": "Refining Pseudo Labels for Unsupervised Domain Adaptive Person Re-Identification",
+        "authors": "Limin Xia;; Zhimin Yu;; Wentao Ma;; Jiahui Zhu; Limin Xia;; Zhimin Yu;; Wentao Ma;; Jiahui Zhu",
+        "abstract": "Unsupervised domain adaptive (UDA) person re-identification (re-ID) aims to generalize the model trained on a labeled source domain to an unlabeled target domain. Recently, the methods based on pseudo labels have achieved great success in the field of UDA person re-ID. However, pseudo label noise is still a problem to be solved. In this paper, we propose a novel framework to refi...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525100"
+    },
+    {
+        "title": "Exploring Latent Information for Unsupervised Person Re-Identification by Discriminative Learning Networks",
+        "authors": "Hongwei Ge;; Kai Zhang;; Liang Sun;; Guozhen Tan; Hongwei Ge;; Kai Zhang;; Liang Sun;; Guozhen Tan",
+        "abstract": "For unsupervised domain adaption in person re-identification (Re-ID) tasks, the generally used label estimation approaches simply use the global features or the uniform part features. They often neglect the variations of samples having the same identity caused by occlusion, misalignment and uncontrollable camera settings. In this paper, we propose a discriminative learning network with...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9024018"
+    },
+    {
+        "title": "A Discriminative Person Re-Identification Model With Global-Local Attention and Adaptive Weighted Rank List Loss",
+        "authors": "Yongchang Gong;; Liejun Wang;; Yongming Li;; Anyu Du; Yongchang Gong;; Liejun Wang;; Yongming Li;; Anyu Du",
+        "abstract": "At present, occlusion and appearance similarity pose severe challenges to person re-identification tasks. Although many robust deep convolutional neural networks alleviate these problems, convolutional layers with limited receptive fields cannot model global semantic information well. In addition, in the person re-identification model, many metric losses ignore or destroy t...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9252959"
+    },
+    {
+        "title": "Asymmetric Mutual Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification",
+        "authors": "Yachao Dong;; Hongzhe Liu;; Cheng Xu; Yachao Dong;; Hongzhe Liu;; Cheng Xu",
+        "abstract": "Unsupervised domain adaptive person re-identification aims to solve the problem of poor performance caused by transferring an unlabeled target domain from the labeled source domain in the re-identification task. The clustering pseudo-labels method in unsupervised learning is widely used in unsupervised adaptive person re-identification tasks, and it maintains state-of...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424557"
+    },
+    {
+        "title": "Cross-Domain Person Re-Identification Based on Normalized IBN-Net",
+        "authors": "Xuemei Bai;; Ao Wang;; Chenjie Zhang;; Hanping Hu; Xuemei Bai;; Ao Wang;; Chenjie Zhang;; Hanping Hu",
+        "abstract": "In existing methods, the data distribution between different domains may have large differences, which can lead to performance degradation in the target domain, and the modelling of feature variability between different domains is not sufficient. Aiming at the problem of severe performance degradation during cross-domain migration, this paper proposes a cross-domain person re-identificati...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496669"
+    },
+    {
+        "title": "Video-Based Person Re-Identification Using Unsupervised Tracklet Matching",
+        "authors": "Chirine Riachy;; Fouad Khelifi;; Ahmed Bouridane; Chirine Riachy;; Fouad Khelifi;; Ahmed Bouridane",
+        "abstract": "Despite the significant improvement in accuracy supervised learning has brought into person re-identification (re-id), the availability of sufficient fully annotated data from concerned camera-views poses a problem for real-life applications. To alleviate the burden of intensive data annotation, one way is to resort to unsupervised methods. This has motivated us to propose a novel algo...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639924"
+    },
+    {
+        "title": "Asymmetric deep hashing for person re-identifications",
+        "authors": "Yali Zhao;; Yali Li;; Shengjin Wang; Yali Zhao;; Yali Li;; Shengjin Wang",
+        "abstract": "The person re-identification (re-ID) community has witnessed an explosion in the scale of data that it has to handle. On one hand, it is important for large-scale re-ID to provide constant or sublinear search time and dramatically reduce the storage cost for data points from the viewpoint of efficiency. On the other hand, the semantic affinity existing in the original space should be p...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9552666"
+    },
+    {
+        "title": "Prompting and Tuning: A Two-Stage Unsupervised Domain Adaptive Person Re-identification Method on Vision Transformer Backbone",
+        "authors": "Shengming Yu;; Zhaopeng Dou;; Shengjin Wang; Shengming Yu;; Zhaopeng Dou;; Shengjin Wang",
+        "abstract": "This paper explores the Vision Transformer (ViT) backbone for Unsupervised Domain Adaptive (UDA) person Re-Identification (Re-ID). While some recent studies have validated ViT for supervised Re-ID, no study has yet to use ViT for UDA Re-ID. We observe that the ViT structure provides a unique advantage for UDA Re-ID, i.e., it has a prompt (the learnable class token) at its bottom layer,...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011173"
+    },
+    {
+        "title": "Unsupervised Cross-Domain Person Re-Identification Method Based on Attention Block and Refined Clustering",
+        "authors": "Yan Hui;; Xi Wu;; Xiuhua Hu;; Huan Liu;; Shijie You; Yan Hui;; Xi Wu;; Xiuhua Hu;; Huan Liu;; Shijie You",
+        "abstract": "Most unsupervised cross-domain person re-identification methods based on clustering suffer from a lack of feature discrimination and clustering generates pseudo-labels noise, leading to a decrease in accuracy. To solve these problems, this paper proposes an unsupervised cross-domain person re-identification method based on attention block and refined clustering. Firstly, Re...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9902980"
+    },
+    {
+        "title": "Cross Domain Person Re-Identification With Large Scale Attribute Annotated Datasets",
+        "authors": "Bolei Xu;; Jingxin Liu;; Xianxu Hou;; Ke Sun;; Guoping Qiu; Bolei Xu;; Jingxin Liu;; Xianxu Hou;; Ke Sun;; Guoping Qiu",
+        "abstract": "We propose a novel deep convolutional neural network framework called deep augmented attribute network (DAAN) to learn augmented attribute features for cross-domain person re-identification (person Re-ID) task. We observed that in some cases, different persons could have similar attributes (e.g., wearing similar clothes). It motivates us to distinguish such pedestrians by f...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630965"
+    },
+    {
+        "title": "Joint Attentive Spatial-Temporal Feature Aggregation for Video-Based Person Re-Identification",
+        "authors": "Lin Chen;; Hua Yang;; Zhiyong Gao; Lin Chen;; Hua Yang;; Zhiyong Gao",
+        "abstract": "Video-based person re-identification (Re-ID) remains to be a promising but challenging computer vision task, suffering from a lack of discriminative features that better aggregate both the spatial and temporal information. In this paper, we propose a joint attentive spatial-temporal feature aggregation network (JAFN) for the video-based person Re-ID, simultaneously learning the q...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8675282"
+    },
+    {
+        "title": "Fully Unsupervised Person Re-Identification via Multiple Pseudo Labels Joint Training",
+        "authors": "Qing Tang;; Ge Cao;; Kang-Hyun Jo; Qing Tang;; Ge Cao;; Kang-Hyun Jo",
+        "abstract": "Person re-identification (re-ID) is the task of finding the matched person in a non-overlapping and multi-camera system. Because annotating images across multiple cameras is difficult and time-consuming, this paper focuses on fully unsupervised learning person re-ID that can learn person re-ID on unlabeled data. The unsupervised re-ID needs to self-generate pseudo lab...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645557"
+    },
+    {
+        "title": "A Two-Stage Attribute-Constraint Network for Video-Based Person Re-Identification",
+        "authors": "Wanru Song;; Jieying Zheng;; Yahong Wu;; Changhong Chen;; Feng Liu; Wanru Song;; Jieying Zheng;; Yahong Wu;; Changhong Chen;; Feng Liu",
+        "abstract": "Person re-identification has gradually become a popular research topic in many fields such as security, criminal investigation, and video analysis. This paper aims to learn a discriminative and robust spatial\u2013temporal representation for video-based person re-identification by a two-stage attribute-constraint network (TSAC-Net). The knowledge of pedestrian attributes can hel...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600306"
+    },
+    {
+        "title": "Visible Infrared Person Re-Identification via Global-Level and Local-Level Constraints",
+        "authors": "Tianqi Zhang;; Jin Wang;; Kaiwei Jiang;; Xiang Gu;; Jie Wan; Tianqi Zhang;; Jin Wang;; Kaiwei Jiang;; Xiang Gu;; Jie Wan",
+        "abstract": "Visible infrared person re-identification (VI-ReID) is an extremely challenging task. VI-ReID suffers from two challenges. One is the cross-modality discrepancy due to different camera spectrums, the other is the intra-modality variation caused by the noise of background clutter or occlusion. We propose a global-level and local-level constraints network (GLoC-Net) to learn discriminati...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9648296"
+    },
+    {
+        "title": "Semi-Coupled Dictionary Learning With Relaxation Label Space Transformation for Video-Based Person Re-Identification",
+        "authors": "Lingchuan Sun;; Zhuqing Jiang;; Hongchao Song;; Qishuo Lu;; Aidong Men; Lingchuan Sun;; Zhuqing Jiang;; Hongchao Song;; Qishuo Lu;; Aidong Men",
+        "abstract": "Video-based person reidentification (re-id) is a challenging problem due to much discrepancy between different videos by person pose, illumination, viewpoint change, background clutter, and occlusion within each camera and across different cameras. However, most existing video-based person re-id methods usually focus on dealing with the discrepancy between different cameras and d...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8286855"
+    },
+    {
+        "title": "Unsupervised Domain Adaptation Via Dynamic Clustering and Co-Segment Attentive Learning for Video-Based Person Re-Identification",
+        "authors": "Fuping Zhang;; Fengjun Chen;; Zhonggen Su;; Jianming Wei; Fuping Zhang;; Fengjun Chen;; Zhonggen Su;; Jianming Wei",
+        "abstract": "Currently, supervised person re-identification (Re-ID) models trained on labeled datasets can achieve high recognition performance in the same data domain. However, accuracy drops dramatically when these models are directly applied to other unlabeled datasets or natural environments, due to a significant sample distribution gap between the two domains. Unsupervised Domain Adaptation (U...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433542"
+    },
+    {
+        "title": "Occluded Person Re-Identification by Multi-Granularity Generation Adversarial Network",
+        "authors": "Yanqi Wang;; Yanguo Sun;; Zhenping Lan;; Fengxue Sun;; Nianchao Zhang;; Yuru Wang; Yanqi Wang;; Yanguo Sun;; Zhenping Lan;; Fengxue Sun;; Nianchao Zhang;; Yuru Wang",
+        "abstract": "In order to address the problem that the detailed features of pedestrians are not prominent and the pedestrian pictures are obscured in unique environments in the process of person re-recognition, we propose a person re-recognition method with a multi-grain size generative adversarial network. Firstly, we use the generative adversarial network to recover the occluded pedestrian picture...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149323"
+    },
+    {
+        "title": "Learning Multi-Scale Features and Batch-Normalized Global Features for Person Re-Identification",
+        "authors": "Zongjing Cao;; Hyo Jong Lee; Zongjing Cao;; Hyo Jong Lee",
+        "abstract": "In recent years, person re-identification based on deep learning approaches has made great progress and achieved good results. However, many of the latest network design methods, which usually deploy ResNet or SENet as the backbone network, were originally designed for classification tasks. Since the person re-identification task is essentially different from the classifica...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9217451"
+    },
+    {
+        "title": "Multi Scale-Adaptive Super-Resolution Person Re-Identification Using GAN",
+        "authors": "Muhammad Adil;; Saqib Mamoon;; Ali Zakir;; Muhammad Arslan Manzoor;; Zhichao Lian; Muhammad Adil;; Saqib Mamoon;; Ali Zakir;; Muhammad Arslan Manzoor;; Zhichao Lian",
+        "abstract": "In real-world surveillance systems, the person images captured by the camera network consists of various low-resolution (LR) images. It creates a resolution mismatching problem when compared against high-resolution images of a targeted person. It significantly affects the performance of person re-Identification. This problem is known as Low-Resolution Person re-ide...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9195535"
+    },
+    {
+        "title": "Cross-Domain Person Reidentification Using Domain Adaptation Ranking SVMs",
+        "authors": "Andy J. Ma;; Jiawei Li;; Pong C. Yuen;; Ping Li; Andy J. Ma;; Jiawei Li;; Pong C. Yuen;; Ping Li",
+        "abstract": "This paper addresses a new person reidentification problem without label information of persons under nonoverlapping target cameras. Given the matched (positive) and unmatched (negative) image pairs from source domain cameras, as well as unmatched (negative) and unlabeled image pairs from target domain cameras, we propose an adaptive ranking support vector machines (AdaRSVMs) method fo...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7018030"
+    },
+    {
+        "title": "Part-Based Enhanced Super Resolution Network for Low-Resolution Person Re-Identification",
+        "authors": "Yan Ha;; Junfeng Tian;; Qiaowei Miao;; Qi Yang;; Jiaao Guo;; Ruohui Jiang; Yan Ha;; Junfeng Tian;; Qiaowei Miao;; Qi Yang;; Jiaao Guo;; Ruohui Jiang",
+        "abstract": "Person re-identification (REID) is an important task in video surveillance and forensics applications. Many previous works often build models on the assumption that they have same resolution cross different camera views, while it is divorced from reality. To increase the adaptability of person REID models, this paper focuses on the low-resolution person REID task to relax t...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8984370"
+    },
+    {
+        "title": "Dual-Space Aggregation Learning and Random Erasure for Visible Infrared Person Re-Identification",
+        "authors": "Yongheng Qian;; Xu Yang;; Su-Kit Tang; Yongheng Qian;; Xu Yang;; Su-Kit Tang",
+        "abstract": "Visible infrared person re-identification (VI Re-ID) is of particular importance for an intelligent safe-guard system, aiming to retrieve the same pedestrian from non-overlapping visible and infrared cameras. The VI Re-ID task is extremely challenging due to significant modality differences, high-sample noise, occlusions, etc. To address these issues, we explore a dual-space aggregatio...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189848"
+    },
+    {
+        "title": "Learning Sparse and Identity-Preserved Hidden Attributes for Person Re-Identification",
+        "authors": "Zheng Wang;; Junjun Jiang;; Yang Wu;; Mang Ye;; Xiang Bai;; Shin\u2019ichi Satoh; Zheng Wang;; Junjun Jiang;; Yang Wu;; Mang Ye;; Xiang Bai;; Shin\u2019ichi Satoh",
+        "abstract": "Person re-identification (Re-ID) aims at matching person images captured in non-overlapping camera views. To represent person appearance, low-level visual features are sensitive to environmental changes, while high-level semantic attributes, such as \u201cshort-hair\u201d or \u201clong-hair\u201d, are relatively stable. Hence, researches have started to design semantic attributes to reduce the...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8874954"
+    },
+    {
+        "title": "An Effective Adversarial Attack on Person Re-Identification in Video Surveillance via Dispersion Reduction",
+        "authors": "Yu Zheng;; Yantao Lu;; Senem Velipasalar; Yu Zheng;; Yantao Lu;; Senem Velipasalar",
+        "abstract": "Person re-identification across a network of cameras, with disjoint views, has been studied extensively due to its importance in wide-area video surveillance. This is a challenging task due to several reasons including changes in illumination and target appearance, and variations in camera viewpoint and camera intrinsic parameters. The approaches developed to re-identify a person...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9195855"
+    },
+    {
+        "title": "Attribute Memory Transfer Network for Unsupervised Cross-Domain Person Re-Identification",
+        "authors": "Xiaochen Zheng;; Hongwei Sun;; Xijiang Tian;; Ye Li;; Gewen He;; Fangfang Fan; Xiaochen Zheng;; Hongwei Sun;; Xijiang Tian;; Ye Li;; Gewen He;; Fangfang Fan",
+        "abstract": "Person re-identification (re-ID) presents various applications in surveillance system, but most existing models are proposed under supervised framework. These methods require large amounts of annotated pedestrian data, which limits their scalability and flexibility in a new application scenario. Aiming to relax this limitation, this article exploits the attribute-invariant characterist...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9214814"
+    },
+    {
+        "title": "Unsupervised Person Re-Identification via Multi-Order Cross-View Graph Adversarial Network",
+        "authors": "Xiang Fu;; Xinyu Lai; Xiang Fu;; Xinyu Lai",
+        "abstract": "Unsupervised person re-identification (re-id) is an effective analysis for video surveillance in practice, which can train a pedestrian matching model without any annotations, and it is easy to deploy in unseen camera scenarios. The most challenging problem in unsupervised re-id task is the huge distribution-gap among different camera views, and the intrinsic correlations in unlabeled ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312041"
+    },
+    {
+        "title": "Unifying Person and Vehicle Re-Identification",
+        "authors": "Daniel Organisciak;; Dimitrios Sakkos;; Edmond S. L. Ho;; Nauman Aslam;; Hubert P. H. Shum; Daniel Organisciak;; Dimitrios Sakkos;; Edmond S. L. Ho;; Nauman Aslam;; Hubert P. H. Shum",
+        "abstract": "Person and vehicle re-identification (re-ID) are important challenges for the analysis of the burgeoning collection of urban surveillance videos. To efficiently evaluate such videos, which are populated with both vehicles and pedestrians, it would be preferable to have one unified framework with effective performance across both domains. Unfortunately, due to the contrasting compositio...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121997"
+    },
+    {
+        "title": "High-Resolution and Low-Resolution Video Person Re-Identification: A Benchmark",
+        "authors": "Fei Ma;; Xiao-Yuan Jing;; Yongfang Yao;; Xiaoke Zhu;; Zhiping Peng; Fei Ma;; Xiao-Yuan Jing;; Yongfang Yao;; Xiaoke Zhu;; Zhiping Peng",
+        "abstract": "Person re-identification has recently attracted increasing interest in the computer vision and safety-critical applications. In practice, due to poor quality of cameras or long distance away from person, the captured pedestrian videos usually suffer from low resolution, which will result in the loss of useful information contained in videos and make person re-identificat...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695003"
+    },
+    {
+        "title": "Person Re-Identification Using Hybrid Representation Reinforced by Metric Learning",
+        "authors": "Nazia Perwaiz;; Muhammad Moazam Fraz;; Muhammad Shahzad; Nazia Perwaiz;; Muhammad Moazam Fraz;; Muhammad Shahzad",
+        "abstract": "Person Re-Identification (Re-Id) is among the main constituents of an automated visual surveillance system. It aims at finding out true matches of a given query person from a large repository of non-overlapping camera images/videos. In this paper, we have proposed an efficient Re-Id approach that is based on a highly discriminative hybrid person representation which combine...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567879"
+    },
+    {
+        "title": "A Cross-Period Network for Clothing Change Person Re-Identification",
+        "authors": "Shuxin Zheng;; Sai Liang;; Chunyun Meng;; Zhongguo Zhang;; Li Luan; Shuxin Zheng;; Sai Liang;; Chunyun Meng;; Zhongguo Zhang;; Li Luan",
+        "abstract": "Pedestrian re-identification aims to identify the same target pedestrian among multiple non-overlapping cameras. However, in real scenarios, pedestrians often change their clothing features due to external factors such as weather and seasons, rendering traditional methods reliant on consistent clothing features ineffective. In this paper, we propose a Knowledge-Driven Cross-Period Network fo...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10491239"
+    },
+    {
+        "title": "Dual Attention Network for Unsupervised Domain Adaptive Person Re-Identification",
+        "authors": "Haiqin Chen;; Hongyuan Wang;; Zongyuan Ding;; Penghui Li; Haiqin Chen;; Hongyuan Wang;; Zongyuan Ding;; Penghui Li",
+        "abstract": "Clustering-based unsupervised domain adaptive person re-identification methods reduce much of the annotation cost. However, many pseudo-labels with inaccurate labels are produced when fine-tuning the target domain as a result of the shortcomings of the less than ideal network model and less than excellent clustering. In order to remove the mislabeled pseudo-labels and improve the purit...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10223247"
+    },
+    {
+        "title": "A Neuromorphic Person Re-Identification Framework for Video Surveillance",
+        "authors": "Aparajita Nanda;; Pankaj Kumar Sa;; Suman Kumar Choudhury;; Sambit Bakshi;; Banshidhar Majhi; Aparajita Nanda;; Pankaj Kumar Sa;; Suman Kumar Choudhury;; Sambit Bakshi;; Banshidhar Majhi",
+        "abstract": "This paper presents a neuromorphic person re-identification (NPReId) framework to establish the correspondence among individuals observed across two disjoint camera views. The proposed framework comprises three modules (observation, cognition, and contemplation), inspired by the form-and-color-and-depth (FACADE) theory model of object recognition system. In the observation module, a se...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7885600"
+    },
+    {
+        "title": "Distilled Camera-Aware Self Training for Semi-Supervised Person Re-Identification",
+        "authors": "Ancong Wu;; Wei-Shi Zheng;; Jian-Huang Lai; Ancong Wu;; Wei-Shi Zheng;; Jian-Huang Lai",
+        "abstract": "Person re-identification (Re-ID), which is for matching pedestrians across disjoint camera views in surveillance, has made great progress in supervised learning. However, requirement of a large number of labelled identities leads to high cost for large-scale Re-ID systems. Consequently, it is significant to study learning Re-ID with unlabelled data and limited labelled data, that is, s...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8886397"
+    },
+    {
+        "title": "Joint Attention Mechanism for Person Re-Identification",
+        "authors": "Shanshan Jiao;; Jiabao Wang;; Guyu Hu;; Zhisong Pan;; Lin Du;; Jin Zhang; Shanshan Jiao;; Jiabao Wang;; Guyu Hu;; Zhisong Pan;; Lin Du;; Jin Zhang",
+        "abstract": "Although person re-identification (ReID) has drawn increasing research attention due to its potential to address the problem of analysis and processing of massive monitoring data, it is very challenging to learn discriminative information when the people in the images are occluded, in large pose variations or from different perspectives. To address this problem, we propose a novel join...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756135"
+    },
+    {
+        "title": "Deep Regression Neural Network for End-to-End Person Re-Identification",
+        "authors": "Yingchun Guo;; Kunpeng Zhao;; Xiaoke Hao;; Ming Yu; Yingchun Guo;; Kunpeng Zhao;; Xiaoke Hao;; Ming Yu",
+        "abstract": "Person re-identification can be seen as a process of open set recognition. Usually, the deep learning models consider the person re-identification model as a classification model with a softmax layer. However, the softmax layer cannot be extended to unknown classes because of its closed nature, so the classification model is just regarded as the feature extractor. To overco...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8758104"
+    },
+    {
+        "title": "Bike-Person Re-Identification: A Benchmark and a Comprehensive Evaluation",
+        "authors": "Yuan Yuan;; Jian\u2019an Zhang;; Qi Wang; Yuan Yuan;; Jian\u2019an Zhang;; Qi Wang",
+        "abstract": "Existing person re-identification (re-id) datasets only consist of pedestrian images, which are far more behind what the real surveillance system holds. As investigated a real camera in a whole daytime, we find that there are more than 40% persons are riding bikes rather than walking. However, such kind of person re-id (we named bike-person re-id) has not been focused...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8476557"
+    },
+    {
+        "title": "Multi-Source Transfer Network for Cross Domain Person Re-Identification",
+        "authors": "Huan Wang;; Jingbo Hu;; Guangnan Zhang; Huan Wang;; Jingbo Hu;; Guangnan Zhang",
+        "abstract": "Unsupervised person re-identification has been improved significantly by the development of cross domain person re-identification models, which apply useful knowledge in source data to completely unlabeled target data. However, existing cross domain re-identification models still remain a major limitation that they are all based on single-source and single-target sett...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082604"
+    },
+    {
+        "title": "Deep Multi-Task Transfer Network for Cross Domain Person Re-Identification",
+        "authors": "Huan Wang;; Jingbo Hu; Huan Wang;; Jingbo Hu",
+        "abstract": "As a prominent application of surveillance video analysis, person re-identification attracts much more research attention recently. Existing person re-identification models often focus on supervision by the pedestrian identity annotation, while it has limited scalability in realistic. Though several unsupervised person re-identification researches pay attention ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8943405"
+    },
+    {
+        "title": "Graph Neural Network Based Attribute Auxiliary Structured Grouping for Person Re-Identification",
+        "authors": "Geyu Tang;; Xingyu Gao;; Zhenyu Chen;; Huicai Zhong; Geyu Tang;; Xingyu Gao;; Zhenyu Chen;; Huicai Zhong",
+        "abstract": "Recently, person re-identification (re-ID) with weakly labeled or unlabeled data has drawn much attention in open-set and cross-domain re-ID systems especially for the attribute auxiliary weakly supervised person re-ID. Although state-of-the-art clustering-based methods have achieved good performance, the pseudo labels generated through clustering are often low-quality and noisy....",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389719"
+    },
+    {
+        "title": "A Comprehensive Overview of Person Re-Identification Approaches",
+        "authors": "Hongbo Wang;; Haomin Du;; Yue Zhao;; Jiming Yan; Hongbo Wang;; Haomin Du;; Yue Zhao;; Jiming Yan",
+        "abstract": "Person re-identification, identifying and tracking pedestrians in cross-domain monitoring systems, is an important technology in the computer vision field and of real significance for the construction of smart cities. With the development of deep learning techniques, especially convolutional neural networks, this technology has received more extensive attention and improvement in recen...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9023965"
+    },
+    {
+        "title": "Pose-Guided Spatial Alignment and Key Frame Selection for One-Shot Video-Based Person Re-Identification",
+        "authors": "Yuzhong Chen;; Tengda Huang;; Yuzhen Niu;; Xiao Ke;; Yangyang Lin; Yuzhong Chen;; Tengda Huang;; Yuzhen Niu;; Xiao Ke;; Yangyang Lin",
+        "abstract": "One-shot video-based person re-identification exploits the unlabeled data by using a single-labeled sample for each individual to train a model and to reduce the need for laborious labeling. Although recent works focusing on this task have made some achievements, most state-of-the-art models are vulnerable to misalignment, pose variation and corrupted frames. To address these challenge...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8736229"
+    },
+    {
+        "title": "Visible Infrared Cross-Modality Person Re-Identification Network Based on Adaptive Pedestrian Alignment",
+        "authors": "Bo Li;; Xiaohong Wu;; Qiang Liu;; Xiaohai He;; Fei Yang; Bo Li;; Xiaohong Wu;; Qiang Liu;; Xiaohai He;; Fei Yang",
+        "abstract": "Cross-modality person re-identification between the visible domain and infrared domain is important but extremely challenging for night-time surveillance. Besides the cross-modality discrepancies caused by different camera spectrums, visible infrared person re-identification (VI-REID) still suffers from much pedestrian misalignment as well as the variations caused by differ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913562"
+    },
+    {
+        "title": "Person Re-Identification via Group Symmetry Theory",
+        "authors": "Jiahuan Zhang;; Xuelong Hu;; Minjie Wang;; Huixiang Qiao;; Xian Li;; Tianbao Sun; Jiahuan Zhang;; Xuelong Hu;; Minjie Wang;; Huixiang Qiao;; Xian Li;; Tianbao Sun",
+        "abstract": "In recent years, deep learning represented by convolutional neural networks (CNNs) has developed rapidly. The development of deep learning has also led to rapid progress in the field of person re-identification. Many related researchers have begun to use deep learning to solve the problem of person re-identification. The existing deep learning methods for person re...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700504"
+    },
+    {
+        "title": "Graph-Based Local Feature Adaptation for Cross-Domain Person Re-Identification",
+        "authors": "Jun Wang; Jun Wang",
+        "abstract": "The performance of cross-domain person re-identification has been greatly improved in recent years. However, there are still two problems in existing cross-domain person re-identification methods. First, most of them conduct domain adaptation on features that contain background noise. Second, they ignore the correlation between different features, including intra-domain and...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9668954"
+    },
+    {
+        "title": "Recurrent Models of Visual Co-Attention for Person Re-Identification",
+        "authors": "Lan Lin;; Huan Luo;; Renjie Huang;; Mao Ye; Lan Lin;; Huan Luo;; Renjie Huang;; Mao Ye",
+        "abstract": "Person re-identification (re-id) refers to matching people across disjoint camera views. Most of person re-id methods extract discriminative features from the whole images or fixed regions and develop their metrics. However, these methods ignore that the attention regions with temporal cues in the pedestrian image pair hold discriminative information. In this paper, we propose th...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598867"
+    },
+    {
+        "title": "An Efficient Person Re-Identification Model Based on New Regularization Technique",
+        "authors": "Marwan Ali Albahar;; Abdulaziz Ali Albahr;; Muhammad Hatim Binsawad; Marwan Ali Albahar;; Abdulaziz Ali Albahr;; Muhammad Hatim Binsawad",
+        "abstract": "The aim of person re-identification (ReID) is to recognize the same persons across different scenes. Due to the many demanding applications that utilize large-scale data, more and more attention has been devoted to matching efficiency and accuracy. Many methods that are based on binary coding have been presented to reach efficient ReID. Those methods learn projections to map the ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9195809"
+    },
+    {
+        "title": "Person Re-Identification over Encrypted Outsourced Surveillance Videos",
+        "authors": "Hang Cheng;; Huaxiong Wang;; Ximeng Liu;; Yan Fang;; Meiqing Wang;; Xiaojun Zhang; Hang Cheng;; Huaxiong Wang;; Ximeng Liu;; Yan Fang;; Meiqing Wang;; Xiaojun Zhang",
+        "abstract": "Person re-identification (Re-ID) has attracted extensive attention due to its potential to identify a person of interest from different surveillance videos. With the increasing amount of the surveillance videos, high computation and storage costs have posed a great challenge for the resource-constrained users. In recent years, the cloud storage services have made a large volume o...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8742620"
+    },
+    {
+        "title": "Contribution-Based Multi-Stream Feature Distance Fusion Method With ${k}$ -Distribution Re-Ranking for Person Re-Identification",
+        "authors": "Zhiyong Huang;; Zhi Yu;; Yinsong Li;; Yujie Wang;; Shuang Lin;; Daming Sun;; Yuanhong Zhong;; Hailin Cao;; Hans Gregersen; Zhiyong Huang;; Zhi Yu;; Yinsong Li;; Yujie Wang;; Shuang Lin;; Daming Sun;; Yuanhong Zhong;; Hailin Cao;; Hans Gregersen",
+        "abstract": "Person re-identification (re-ID) is an important and challenging topic in video surveillance and public security. Re-ID aims to retrieve persons from different cameras. Despite the developments in recent years, re-ID still faces many challenges due to different camera views, changeable person posture, complex background, and occlusion. To exploit more discriminative image s...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8664569"
+    },
+    {
+        "title": "A Novel Method for Person Re-Identification: Conditional Translated Network Based on GANs",
+        "authors": "Rui Sun;; Weiming Lu;; Ye Zhao;; Jun Zhang;; Caihong Kai; Rui Sun;; Weiming Lu;; Ye Zhao;; Jun Zhang;; Caihong Kai",
+        "abstract": "The main challenge of person re-identification (re-id) lies in the strikingly discrepancy between different camera views, including illumination, background and human pose. Existing person re-id methods rely mostly on implicit solutions, such as seeking robust features or designing discriminative distance metrics. Compared to these methods, human solutions are more straightforwar...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8943114"
+    },
+    {
+        "title": "k-Reciprocal Harmonious Attention Network for Video-Based Person Re-Identification",
+        "authors": "Xinxing Su;; Xiaoye Qu;; Zhikang Zou;; Pan Zhou;; Wei Wei;; Shiping Wen;; Menglan Hu; Xinxing Su;; Xiaoye Qu;; Zhikang Zou;; Pan Zhou;; Wei Wei;; Shiping Wen;; Menglan Hu",
+        "abstract": "Video-based person re-identification aims to retrieve video sequences of the same person in the multi-camera system. In this paper, we propose a  $k$ -reciprocal harmonious attention network (KHAN) to jointly learn discriminative spatiotemporal features and the similarity metrics. In KHAN, the harmonious attention module adaptively calibrates response at each spatial position and...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643936"
+    },
+    {
+        "title": "Two-Stage Clustering Pseudo-Labels Correction for Cross-Domain Person Re-Identification",
+        "authors": "Fei Zhou;; Chaoxi Zhang;; Yang Lin;; Tao Li; Fei Zhou;; Chaoxi Zhang;; Yang Lin;; Tao Li",
+        "abstract": "The same identity of person images captured by multiple cameras may encounter appearance change significantly. In this case, most cluster-based cross-domain person re-identification(re-id) methods easily group them into different groups, which may generate lots of noise pseudo labels and limit the model performance. In this paper, we propose a Two-stage Clustering Pseudo-Labels C...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458281"
+    },
+    {
+        "title": "Night Person Re-Identification and a Benchmark",
+        "authors": "Jian\u2019an Zhang;; Yuan Yuan;; Qi Wang; Jian\u2019an Zhang;; Yuan Yuan;; Qi Wang",
+        "abstract": "Person re-identification is an important problem in computer vision fields due to its widely application. However, most of existing person re-identification methods are evaluated in daytime scenarios which is still far from real applications. In this paper, we pay attention to the night scenario person re-identification problem which most of works are not focuse...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8766119"
+    },
+    {
+        "title": "Cross-Domain Person Re-Identification Based on Feature Fusion",
+        "authors": "Xianjun Luo;; Zhi Ouyang;; Nisuo Du;; Jingkuan Song;; Qin Wei; Xianjun Luo;; Zhi Ouyang;; Nisuo Du;; Jingkuan Song;; Qin Wei",
+        "abstract": "Person re-identification (ReID) is one of the commonly used criminal investigation methods in reconnaissance. Although the current ReID has achieved robust results on single domains, the focus of researches has shifted to cross-domain in recent years, which is caused by domain bias between different datasets. Generative Adversarial Networks (GAN) is used to realize the image style tran...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9462145"
+    },
+    {
+        "title": "SRPRID: Pedestrian Re-Identification Based on Super-Resolution Images",
+        "authors": "Zhen Qin;; Wei He;; Fuhu Deng;; Meng Li;; Yao Liu; Zhen Qin;; Wei He;; Fuhu Deng;; Meng Li;; Yao Liu",
+        "abstract": "Intelligent security expects to avoid the occurrence of robbery, theft, and other undesirable situations through video surveillance. In video surveillance, images of human faces undimmed are not easily available, so pedestrian re-identification (person ReID) is an alternative technique which attracts a mount of researchers attention. Person ReID is a technique used to match pedes...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8876600"
+    },
+    {
+        "title": "Hierarchical Attentive Feature Aggregation for Person Re-Identification",
+        "authors": "Husheng Dong;; Ping Lu; Husheng Dong;; Ping Lu",
+        "abstract": "Recent efforts on person re-identification have shown promising results by learning discriminative features via the multi-branch network. To further boost feature discrimination, attention mechanism has also been extensively employed. However, the branches on the main level rarely communicate with others in existing branching models, which may compromise the ability of mining diverse f...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10501923"
+    },
+    {
+        "title": "Lightweight Person Re-Identification for Edge Computing",
+        "authors": "Wang Jin;; Dong Yanbin;; Chen Haiming; Wang Jin;; Dong Yanbin;; Chen Haiming",
+        "abstract": "In person re-identification, most prevalent models are predominantly designed for cloud computing environments which introduces complexities that limit their effectiveness in edge computing scenarios. Person re-identification systems optimized for edge computing can achieve real-time or near-real-time responses, providing substantial practical value. Addressing this gap, th...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10538254"
+    },
+    {
+        "title": "Extended Global\u2013Local Representation Learning for Video Person Re-Identification",
+        "authors": "Wanru Song;; Yahong Wu;; Jieying Zheng;; Changhong Chen;; Feng Liu; Wanru Song;; Yahong Wu;; Jieying Zheng;; Changhong Chen;; Feng Liu",
+        "abstract": "Recently, person re-identification has become one of the research hotspots in the field of computer vision and has received extensive attention in the academic community. Inspired by the part-based research of image ReID, this paper presents a novel feature learning and extraction framework for video-based person re-identification, namely, the extended global-local represen...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818112"
+    },
+    {
+        "title": "Person Re-Identification With Joint Verification and Identification of Identity-Attribute Labels",
+        "authors": "Shun Zhang;; Yantao He;; Jiang Wei;; Shaohui Mei;; Shuai Wan;; Ke Chen; Shun Zhang;; Yantao He;; Jiang Wei;; Shaohui Mei;; Shuai Wan;; Ke Chen",
+        "abstract": "One of the major challenges in person Re-Identification (ReID) is the inconsistent visual appearance of a person. Current works on visual feature and distance metric learning have achieved significant achievements, but still suffer from the limited robustness to pose variations, viewpoint changes, etc. This makes person ReID among multiple cameras still challenging. This wo...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8822734"
+    },
+    {
+        "title": "Person Re-Identification by Effective Features and Self-Optimized Pseudo-Label",
+        "authors": "Ming-Xiang He;; Jin-Fang Gao;; Guan Li;; You-Zhi Xin; Ming-Xiang He;; Jin-Fang Gao;; Guan Li;; You-Zhi Xin",
+        "abstract": "With the development of deep learning, person re-identification (ReID) has been widely concerned and studied. At present, in practical application, there are three main problems in person ReID: first, it is difficult to locate the target person because the person is frequently partially occluded in crowed scenes; second, it is difficult to match the target person::...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363879"
+    },
+    {
+        "title": "An Improved Convolutional Network Architecture Based on Residual Modeling for Person Re-Identification in Edge Computing",
+        "authors": "Shanchen Pang;; Sibo Qiao;; Tao Song;; Jianli Zhao;; Pan Zheng; Shanchen Pang;; Sibo Qiao;; Tao Song;; Jianli Zhao;; Pan Zheng",
+        "abstract": "Person re-identification is an important task in the field of video surveillance that concentrates on identifying the same person across different cameras. Some methods cannot learn effective image representations, due to the low resolution of pedestrian image data sets. In this article, we propose a novel Siamese network architecture with layers specially designed to address the...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8788519"
+    },
+    {
+        "title": "Real-World Person Re-Identification via Super-Resolution and Semi-Supervised Methods",
+        "authors": "Limin Xia;; Jiahui Zhu;; Zhimin Yu; Limin Xia;; Jiahui Zhu;; Zhimin Yu",
+        "abstract": "Person re-identification has made great progress over the years. However, due to the problem of super-resolution and few labeled samples, it is difficult to apply in practice. In this paper, we propose a semi-supervised super-resolution person re-identification method based on soft multi-labels. Firstly, a Mixed-Space Super-Resolution model (MSSR) is constructed based on Ge...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366508"
+    },
+    {
+        "title": "Deep Learning Research With an Expectation-Maximization Model for Person Re-Identification",
+        "authors": "Fei Zhou;; Wenfeng Chen;; Yani Xiao; Fei Zhou;; Wenfeng Chen;; Yani Xiao",
+        "abstract": "In existing person re-identification methods based on deep learning, the extraction of good features is still a key step. Some efforts divide the image of a person into multiple parts to extract more detailed information from semantically coherent parts but ignore their correlation with each other. Others adopt self attention to reallocate weights of pixels for learning the assoc...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174970"
+    },
+    {
+        "title": "A Survey on Deep Learning-Based Person Re-Identification Systems",
+        "authors": "Muna O. Almasawa;; Lamiaa A. Elrefaei;; Kawthar Moria; Muna O. Almasawa;; Lamiaa A. Elrefaei;; Kawthar Moria",
+        "abstract": "Person re-identification systems (person Re-ID) have recently gained more attention between computer vision researchers. They are playing a key role in intelligent visual surveillance systems and have widespread applications like applications for public security. The person Re-ID systems can identify if a person has been seen by a non-overlapping camera over large cam...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8920082"
+    },
+    {
+        "title": "Salient Region-Based Least-Squares Log-Density Gradient Clustering for Image-To-Video Person Re-Identification",
+        "authors": "Tiezhu Li;; Lijuan Sun;; Chong Han;; Jian Guo; Tiezhu Li;; Lijuan Sun;; Chong Han;; Jian Guo",
+        "abstract": "Because of its distinction and reliability, the person-salient region has been applied to pedestrian re-identification (re-id) across disjoint camera views. Despite the great progress achieved, a few works have studied the more challenging image-to-video person re-id problem, in which the gallery consists of videos and the same pedestrian appears in a continuous video sequence. T...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8249811"
+    },
+    {
+        "title": "StyleGAN-LSRO Method for Person Re-Identification",
+        "authors": "Saleh Hussin Salem Hussin;; Remzi Yildirim; Saleh Hussin Salem Hussin;; Remzi Yildirim",
+        "abstract": "In this study, the StyleGAN-LSRO method has been developed for person re-identification (re-ID) tasks. This method applies the style-based generative adversarial network (StyleGAN) to generate new synthetic images from existing person re-ID datasets and the label smoothing regularization for outliers (LSRO) algorithm to process those newly produced unlabeled images by assigning t...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9323059"
+    },
+    {
+        "title": "Relative Distance Metric Leaning Based on Clustering Centralization and Projection Vectors Learning for Person Re-Identification",
+        "authors": "Tongguang Ni;; Zongyuan Ding;; Fuhua Chen;; Hongyuan Wang; Tongguang Ni;; Zongyuan Ding;; Fuhua Chen;; Hongyuan Wang",
+        "abstract": "Existing projection-based person re-identification methods usually suffer from long time training, high dimension of projection matrix, and low matching rate. In addition, the intra-class instances may be much less than the inter-class instances when a training data set is built. To solve these problems, a novel relative distance metric leaning based on clustering centralization and pr...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8263222"
+    },
+    {
+        "title": "Unsupervised Region Attention Network for Person Re-Identification",
+        "authors": "Chenrui Zhang;; Yangxu Wu;; Tao Lei; Chenrui Zhang;; Yangxu Wu;; Tao Lei",
+        "abstract": "As supervised person re-identification (Re-Id) requires massive labeled pedestrian data and it is very difficult to collect sufficient labeled data in reality, unsupervised Re-Id approaches attract much more attention than the former. Existing unsupervised person Re-Id models learn global features of pedestrian from whole images or several constant patches. These models ignore th...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897584"
+    },
+    {
+        "title": "Open-World Person Re-Identification With RGBD Camera in Top-View Configuration for Retail Applications",
+        "authors": "Massimo Martini;; Marina Paolanti;; Emanuele Frontoni; Massimo Martini;; Marina Paolanti;; Emanuele Frontoni",
+        "abstract": "Person re-identification (re-ID) is currently a notably topic in the computer vision and pattern recognition communities. However, most of the existing works on re-ID have been designed for closed world scenarios, rather than more realistic open world scenarios, limiting the practical application of these re-ID techniques. In a common real-world application, a watch-list of known peopl...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057668"
+    },
+    {
+        "title": "Person Re-Identification With Character-Illustration-Style Image and Normal Photo",
+        "authors": "Fei Ma;; Xiao-Yuan Jing;; Li Cheng;; Songsong Wu;; Hao Zhang;; Yongfang Yao;; Xiaoke Zhu; Fei Ma;; Xiao-Yuan Jing;; Li Cheng;; Songsong Wu;; Hao Zhang;; Yongfang Yao;; Xiaoke Zhu",
+        "abstract": "Retrieving the given objects hidden amidst the gallery set is important for public safety and decision-making. Heterogeneous pedestrian retrieval (person re-identification) aims to retrieve the same person images from different modality set for identification. To address this problem, we contribute a new character-illustration-style image and normal photo pedestrian re-identif...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343293"
+    },
+    {
+        "title": "Person Re-Identification Using Additive Distance Constraint With Similar Labels Loss",
+        "authors": "Guofa Li;; Lisha Huang;; Liangwen Tang;; Chunli Han;; Yaoyu Chen;; Heng Xie;; Shen Li;; Gang Xu; Guofa Li;; Lisha Huang;; Liangwen Tang;; Chunli Han;; Yaoyu Chen;; Heng Xie;; Shen Li;; Gang Xu",
+        "abstract": "Despite the promising progress made in recent years, person re-identification (Re-ID) remains a challenging task due to the intra-class variations. Most of the current studies used the traditional Softmax loss for solutions, but its discriminative capability encounters a bottleneck. Therefore, how to improve person Re-ID performance is still a challenging task. To address this pr...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9195852"
+    },
+    {
+        "title": "Tiny Asymmetric Feature Normalized Network for Person Re-Identification System",
+        "authors": "Hoyeon Ahn;; Yoojin Hong;; Hyunguk Choi;; Jeonghwan Gwak;; Moongu Jeon; Hoyeon Ahn;; Yoojin Hong;; Hyunguk Choi;; Jeonghwan Gwak;; Moongu Jeon",
+        "abstract": "Person re-identification (ReID) identifies object IDs in a multicamera environment based on local tracking of city surveillance cameras in public places. This method can improve the performance by learning various features using a convolutional neural network. However, ReID methods are limited in terms of application in practical surveillance environments as the ReID model is trained o...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976048"
+    },
+    {
+        "title": "Omnidirectional Feature Learning for Person Re-Identification",
+        "authors": "Di Wu;; Hong-Wei Yang;; De-Shuang Huang;; Chang-An Yuan;; Xiao Qin;; Yang Zhao;; Xin-Yong Zhao;; Jian-Hong Sun; Di Wu;; Hong-Wei Yang;; De-Shuang Huang;; Chang-An Yuan;; Xiao Qin;; Yang Zhao;; Xin-Yong Zhao;; Jian-Hong Sun",
+        "abstract": "Person re-identification (PReID) has received increasing attention due to it being an important role in intelligent surveillance. Many state-of-the-art PReID methods are part-based deep models. Most of these models focus on learning the part feature representation of a person's body from the horizontal direction. However, the feature representation of the body from the vertical d...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8653287"
+    },
+    {
+        "title": "Joint Learning of Body and Part Representation for Person Re-Identification",
+        "authors": "Yuanyuan Wang;; Zhijian Wang;; Wenjing Jia;; Xiangjian He;; Mingxin Jiang; Yuanyuan Wang;; Zhijian Wang;; Wenjing Jia;; Xiangjian He;; Mingxin Jiang",
+        "abstract": "Person re-identification (ReID), aiming to identify people among multiple camera views, has attracted an increasing attention due to the potential of application in surveillance security. Large variations in subjects' postures, view angles, and illuminating conditions as well as non-ideal human detection significantly increase the difficulty of person ReID. Learning a robust metr...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8432403"
+    },
+    {
+        "title": "Resetting-Label Network Based on Fast Group Loss for Person Re-Identification",
+        "authors": "Yewen Huang;; Suian Zhang;; Haifeng Hu;; Dihu Chen;; Tao Su; Yewen Huang;; Suian Zhang;; Haifeng Hu;; Dihu Chen;; Tao Su",
+        "abstract": "In this paper, we propose a Resetting-Label Network based on Fast Group Loss for Person Re-Identification (RLFGL-ReID). The major challenge of Re-ID lies in how to preserve the similarity of the same person against large variations caused by complex background, different illuminations, and various view angles while discriminating different individuals. To address the above-mentio...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782096"
+    },
+    {
+        "title": "GDMN: Group Decision-Making Network for Person Re-Identification",
+        "authors": "Yang Liu;; Hao Sheng;; Yanwei Zheng;; Nengcheng Chen;; Wei Ke;; Zhang Xiong; Yang Liu;; Hao Sheng;; Yanwei Zheng;; Nengcheng Chen;; Wei Ke;; Zhang Xiong",
+        "abstract": "Person re-identification (re-ID) is a widely studied yet still challenging problem in computer vision. It aims to match images of the same pedestrian captured from different cameras. Recently, deep learning has been widely used for feature extraction and distance metric learning in re-ID. However, most of them only consider a certain aspect of the input data and thus will make certain ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8506353"
+    },
+    {
+        "title": "A Color/Illuminance Aware Data Augmentation and Style Adaptation Approach to Person Re-Identification",
+        "authors": "Zhouchi Lin;; Chenyang Liu;; Wenbo Qi;; S. C. Chan; Zhouchi Lin;; Chenyang Liu;; Wenbo Qi;; S. C. Chan",
+        "abstract": "Person re-identification problems usually suffer from large subject appearance variations and limited training data. This paper proposes a novel physically motivated Color/Illuminance-Aware data-augmentation (CIADA) scheme and a style-adaptive fusion approach to address these issues. The CIADA scheme estimates the color/illuminance distribution from the training data via manifold learn...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497884"
+    },
+    {
+        "title": "Noise Resistible Network for Unsupervised Domain Adaptation on Person Re-Identification",
+        "authors": "Suian Zhang;; Ying Zeng;; Haifeng Hu;; Shuyu Liu; Suian Zhang;; Ying Zeng;; Haifeng Hu;; Shuyu Liu",
+        "abstract": "Unsupervised domain adaptation on person re-identification (re-ID), which adapts the model trained on source dataset to the target dataset, has drawn increasing attention over the past few years. It is more practical than the traditional supervised methods when applied in the real-world scenarios since they require a huge number of manual annotations in a specific domain, which is unre...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395436"
+    },
+    {
+        "title": "A Heuristic Transformation in Discriminative Dictionary Learning for Person Re-Identification",
+        "authors": "Hao Sheng;; Yanwei Zheng;; Yang Liu;; Kai Lv;; Abbas Rajabifard;; Yiqun Chen;; Wei Ke;; Zhang Xiong; Hao Sheng;; Yanwei Zheng;; Yang Liu;; Kai Lv;; Abbas Rajabifard;; Yiqun Chen;; Wei Ke;; Zhang Xiong",
+        "abstract": "Person re-identification (ReID) is an important technology for target association in surveillance applications. Recently, sparse representation-based classification has been applied to person ReID with the advantage of discriminative feature extraction and has produced excellent results. The dictionary learning (DL) method is vital to the sparse representation, and the discrimina...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8668409"
+    },
+    {
+        "title": "A Few-Shot Learning Method Using Feature Reparameterization and Dual-Distance Metric Learning for Object Re-Identification",
+        "authors": "Sheng-Hung Fan;; Min-Hong Lin;; Jung-Yi Jiang;; Yau-Hwang Kuo; Sheng-Hung Fan;; Min-Hong Lin;; Jung-Yi Jiang;; Yau-Hwang Kuo",
+        "abstract": "Many object re-identification (Re-ID) methods that depend on large-scale training datasets have been proposed in recent years. However, the performance of these methods degrades dramatically when insufficient training data are available. To address this challenging problem, we propose a few-shot object re-identification (FSOR) method that enhances the generalization and discrimination ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551270"
+    },
+    {
+        "title": "Double-Domain Imaging and Adaption for Person Re-Identification",
+        "authors": "Shuren Zhou;; Peng Luo;; Deepak Kumar Jain;; Xiangyuan Lan;; Yudong Zhang; Shuren Zhou;; Peng Luo;; Deepak Kumar Jain;; Xiangyuan Lan;; Yudong Zhang",
+        "abstract": "Person re-identification (re-ID) performance has been significantly boosted in recent works, but re-ID model trained on one dataset usually cannot work effectively on another one. To address this problem, we proposed a novel framework-double-domain translation generative adversarial network (DTGAN) that can train images between two domains and generalize the model trained on one domain...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771160"
+    },
+    {
+        "title": "Exploring Cross-Modality Commonalities via Dual-Stream Multi-Branch Network for Infrared-Visible Person Re-Identification",
+        "authors": "Ding Cheng;; Xiaohong Li;; Meibin Qi;; Xueliang Liu;; Cuiqun Chen;; Dawei Niu; Ding Cheng;; Xiaohong Li;; Meibin Qi;; Xueliang Liu;; Cuiqun Chen;; Dawei Niu",
+        "abstract": "Infrared-Visible person Re-IDentification (IV-ReID) is an emerging subject, which has important research significance for nighttime monitoring. Existing works focus on reducing cross-modality discrepancies, but the cross-modality discrepancy cannot be completely eliminated. Therefore, we concentrate on excavating cross-modality commonalities to handle the task. Since similar features b...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957128"
+    },
+    {
+        "title": "Heterogeneous Distance Learning Based on Kernel Analysis-Synthesis Dictionary for Semi-Supervised Image to Video Person Re-Identification",
+        "authors": "Xiaoke Zhu;; Pengfei Ye;; Xiao-Yuan Jing;; Xinyu Zhang;; Xiang Cui;; Xiaopan Chen;; Fan Zhang; Xiaoke Zhu;; Pengfei Ye;; Xiao-Yuan Jing;; Xinyu Zhang;; Xiang Cui;; Xiaopan Chen;; Fan Zhang",
+        "abstract": "Image to video person re-identification (IVPR), i.e., matching between pedestrian video and image, is an important task in practice. Although several methods have been presented for IVPR, most of these methods investigate the IVPR problem under the supervised setting, and require a large number of labeled image-video pairs for training. In this article, we study the IVPR problem under ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197639"
+    },
+    {
+        "title": "Spatio-Visual Fusion-Based Person Re-Identification for Overhead Fisheye Images",
+        "authors": "Mertcan Cokbas;; Prakash Ishwar;; Janusz Konrad; Mertcan Cokbas;; Prakash Ishwar;; Janusz Konrad",
+        "abstract": "Person re-identification (PRID) has been thoroughly researched in typical surveillance scenarios where various scenes are monitored by side-mounted, rectilinear-lens cameras. To date, few methods have been proposed for fisheye cameras mounted overhead and their performance is lacking. In order to close this performance gap, we propose a multi-feature framework for fisheye PRID where we...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10121762"
+    },
+    {
+        "title": "Learning Irregular Space Transformation for Person Re-Identification",
+        "authors": "Yanwei Zheng;; Hao Sheng;; Yang Liu;; Kai Lv;; Wei Ke;; Zhang Xiong; Yanwei Zheng;; Hao Sheng;; Yang Liu;; Kai Lv;; Wei Ke;; Zhang Xiong",
+        "abstract": "Person re-identification (ReID) classifies the discriminative features of different people. Human perception usually depends on the minority of discriminative colors to classify targets, rather than the majority of mutual colors. ReID uses a small number of fixed cameras, which create a small account of similar backgrounds, leading to the majority of background pixels becoming non-disc...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8468189"
+    },
+    {
+        "title": "Part-Based Attribute-Aware Network for Person Re-Identification",
+        "authors": "Yan Zhang;; Xusheng Gu;; Jun Tang;; Ke Cheng;; Shoubiao Tan; Yan Zhang;; Xusheng Gu;; Jun Tang;; Ke Cheng;; Shoubiao Tan",
+        "abstract": "Despite the rapid progress over the past decade, person re-identification (reID) remains a challenging task due to the fact that discriminative features underlying different granularities are easily affected by illumination and camera-view variation. Most deep learning-based algorithms for reID extract global embedding as the representation of the pedestrian from the convolutional neur...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695817"
+    },
+    {
+        "title": "Unsupervised Horizontal Pyramid Similarity Learning for Cross-Domain Adaptive Person Re-Identification",
+        "authors": "Wenhui Dong;; Peishu Qu;; Chunsheng Liu;; Yanke Tang;; Ning Gai; Wenhui Dong;; Peishu Qu;; Chunsheng Liu;; Yanke Tang;; Ning Gai",
+        "abstract": "Although person re-identification has made great progress, unsupervised cross-domain adaptive person re-identification is still a challenging problem. With no labeled data in target domain, the performance may have a significant drop. In this paper, we propose an unsupervised cross-domain adaptive person re-identification framework based on horizontal pyramid si...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9466837"
+    },
+    {
+        "title": "Dual-stream coupling network with wavelet transform for cross-resolution person re-identification",
+        "authors": "Rui Sun;; Zi Yang;; Zhenghui Zhao;; Xudong Zhang; Rui Sun;; Zi Yang;; Zhenghui Zhao;; Xudong Zhang",
+        "abstract": "Person re-identification is a prevalent technology deployed on intelligent surveillance. There have been remarkable achievements in person re-identification methods based on the assumption that all person images have a sufficiently high resolution, yet such models are not applicable to the open world. In real world, the changing distance between pedestrians and the ca...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025598"
+    },
+    {
+        "title": "Multi-Domain Adversarial Feature Generalization for Person Re-Identification",
+        "authors": "Shan Lin;; Chang-Tsun Li;; Alex C. Kot; Shan Lin;; Chang-Tsun Li;; Alex C. Kot",
+        "abstract": "With the assistance of sophisticated training methods applied to single labeled datasets, the performance of fully-supervised person re-identification (Person Re-ID) has been improved significantly in recent years. However, these models trained on a single dataset usually suffer from considerable performance degradation when applied to videos of a different camera network. To mak...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311771"
+    },
+    {
+        "title": "Person Re-Identification Based on Multi-Parts of Local Feature Network",
+        "authors": "Zimian Wei;; Wenjing Yang;; Wanrong Huang;; Huadong Dai;; Dongsheng Li; Zimian Wei;; Wenjing Yang;; Wanrong Huang;; Huadong Dai;; Dongsheng Li",
+        "abstract": "Person re-identification has become increasing popular because of its widely application in computer vision. In this paper, we propose a novel, simple and efficient person re-id network called MPLFN. The network combines two tasks: the classification task and the metric learning task. In the classification task, we uniformly partition N feature parts from an image, and compute th...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835904"
+    },
+    {
+        "title": "Domain adaptive learning with multi-granularity features for unsupervised person re-identification",
+        "authors": "Lihua Fu;; Yubin Du;; Yu Ding;; Dan Wang;; Hanxu Jiang;; Haitao Zhang; Lihua Fu;; Yubin Du;; Yu Ding;; Dan Wang;; Hanxu Jiang;; Haitao Zhang",
+        "abstract": "Unsupervised person re-identification (Re-ID) aims to improve the model's scalability and obtain better Re-ID results in the unlabeled data domain. In this paper, we propose an unsupervised person Re-ID method based on multi-granularity feature representation and domain adaptive learning, which can effectively improve the performance of unsupervised person re-identificat...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9996112"
+    },
+    {
+        "title": "Person Re-Identification by Multi-Camera Networks for Internet of Things in Smart Cities",
+        "authors": "Shilin Zhang;; Hangbin Yu; Shilin Zhang;; Hangbin Yu",
+        "abstract": "As one of the most important areas of public safety and security, intelligent video surveillance is an indispensable part of the urban Internet of Things infrastructure. Person re-identification (person re-ID), which aims to track and recognize a person in a multi-camera scene, is mostly viewed as an image retrieval problem, and this task has been greatly boosted by deep co...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8548589"
+    },
+    {
+        "title": "Modeling Unknown Class Centers for Metric Learning on Person Re-Identification",
+        "authors": "Yuan Yuan;; Jian\u2019an Zhang;; Qi Wang; Yuan Yuan;; Jian\u2019an Zhang;; Qi Wang",
+        "abstract": "Metric learning is one of the major methods for person re-identification. Most existing metric learning methods for person re-identification first generate the pairwise constraints where the sample pairs with the same labels consist of the positive set and the ones with the different labels comprise the negative set. And then, different kinds of methods are formulated to pu...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419228"
+    },
+    {
+        "title": "Improved bag-of-words model for person re-identification",
+        "authors": "Lu Tian;; Shengjin Wang; Lu Tian;; Shengjin Wang",
+        "abstract": "Person re-identification (person re-id) aims to match observations on pedestrians from different cameras. It is a challenging task in real word surveillance systems and draws extensive attention from the community. Most existing methods are based on supervised learning which requires a large number of labeled data. In this paper, we develop a robust unsupervised learning approach...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8329109"
+    },
+    {
+        "title": "A Novel SRTSR Model for Cross-Resolution Person Re-Identification",
+        "authors": "Xiaoqi Wang;; Xi Yang;; Dong Yang; Xiaoqi Wang;; Xi Yang;; Dong Yang",
+        "abstract": "Compared to the general person re-identification (re-id), pedestrian images in cross-resolution person re-id tasks always have variant resolutions, thus the resolution mismatching problem between low-resolution (LR) images and high-resolution (HR) images significantly limits the performance of neural networks. The general solution is to introduce interpolation methods or super-re...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9359802"
+    },
+    {
+        "title": "Dual Pseudo Label Refinement for Unsupervised Domain Adaptive Person Re-Identification",
+        "authors": "Wenhui Dong;; Peishu Qu;; Bingwen Li; Wenhui Dong;; Peishu Qu;; Bingwen Li",
+        "abstract": "Although clustering-based unsupervised domain adaptive person re-identification has achieved promising progress, negative influence of noisy pseudo labels is still unsolved. Training model with noisy labeled data will mislead feature representation and ultimately affect the improvement of model performance. To tackle the above problem, we propose a dual pseudo label refinement framewor...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10114923"
+    },
+    {
+        "title": "Person Re-Identification Between Visible and Thermal Camera Images Based on Deep Residual CNN Using Single Input",
+        "authors": "Jin Kyu Kang;; Toan Minh Hoang;; Kang Ryoung Park; Jin Kyu Kang;; Toan Minh Hoang;; Kang Ryoung Park",
+        "abstract": "In recent years, numerous studies have been undertaken regarding person re-identification (ReID), an important issue for intelligent surveillance systems. Person ReID, however, is an extremely difficult problem because of variables such as different viewpoints and poses, and varying lighting in person regions in images that have been captured from remote distances. A majori...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8705321"
+    },
+    {
+        "title": "Person Re-Identification by Pose Invariant Deep Metric Learning With Improved Triplet Loss",
+        "authors": "Min Chen;; Yongxin Ge;; Xin Feng;; Chuanyun Xu;; Dan Yang; Min Chen;; Yongxin Ge;; Xin Feng;; Chuanyun Xu;; Dan Yang",
+        "abstract": "Person re-identification (re-ID) is a challenging problem in the community which aims at identifying person in a surveillance video. Despite recent advance in the field of computer vision, person re-ID still presents great challenge since person\u2019s presence is various under different illumination, viewpoints, occlusion, and background clutter. In this paper, to exploit...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8522036"
+    },
+    {
+        "title": "Cross-Media Body-Part Attention Network for Image-to-Video Person Re-Identification",
+        "authors": "Benzhi Yu;; Ning Xu;; Jian Zhou; Benzhi Yu;; Ning Xu;; Jian Zhou",
+        "abstract": "Person re-identification (re-id) is a significant application in public security and attracts much more research interest due to its significant application in reality. Most person re-id models focus on image-based or video-based re-id problems. In fact, image-to-video person re-id has important significance in lost-human location, criminal-tracking, and pedestrian video re...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8760238"
+    },
+    {
+        "title": "Multi-Level Feature Network With Multi-Loss for Person Re-Identification",
+        "authors": "Huiyan Wu;; Ming Xin;; Wen Fang;; Hai-Miao Hu;; Zihao Hu; Huiyan Wu;; Ming Xin;; Wen Fang;; Hai-Miao Hu;; Zihao Hu",
+        "abstract": "Person re-identification has become a challenging task due to various factors. One key to effective person re-identification is the extraction of the discriminative features of a person's appearance. Most previous works based on deep learning extract pedestrian characteristics from neural networks but only from the top feature layer. However, the low-layer feature cou...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8755991"
+    },
+    {
+        "title": "Deep Feature Ranking for Person Re-Identification",
+        "authors": "Jie Nie;; Lei Huang;; Wenfeng Zhang;; Guanqun Wei;; Zhiqiang Wei; Jie Nie;; Lei Huang;; Wenfeng Zhang;; Guanqun Wei;; Zhiqiang Wei",
+        "abstract": "Person re-identification plays a critical part in many surveillance applications. Due to complicated illumination environments and various viewpoints, it is still a challenging problem to extract robust features. To solve this issue, we propose a novel deep feature ranking scheme. Our main contribution is to rank achieved deep features, which are obtained by classic deep learning model...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8624253"
+    },
+    {
+        "title": "Attributes-based person re-identification via CNNs with coupled clusters loss",
+        "authors": "Sun Rui;; Huang Qiheng;; Fang Wei;; Zhang Xudong; Sun Rui;; Huang Qiheng;; Fang Wei;; Zhang Xudong",
+        "abstract": "Person re-identification (re-id) involves matching a person across nonoverlapping views, with different poses, illuminations and conditions. Visual attributes are understandable semantic information to help improve the issues including illumination changes, viewpoint variations and occlusions. This paper proposes an end-to-end framework of deep learning for attribute-based per...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9014588"
+    },
+    {
+        "title": "RRGCCAN: Re-Ranking via Graph Convolution Channel Attention Network for Person Re-Identification",
+        "authors": "Xiaoqiang Chen;; Ling Zheng;; Chong Zhao;; Qicong Wang;; Maozhen Li; Xiaoqiang Chen;; Ling Zheng;; Chong Zhao;; Qicong Wang;; Maozhen Li",
+        "abstract": "The classical person re-identification methods are mostly focused on employing discriminative features amongst which the distance is measured on Euclidean space, while the effort of re-ranking is constrained as the lack of the utilization of quality context representation in embedding set. In this paper, we incorporate graph models on feature subsets resorting to the initial ranking by...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142224"
+    },
+    {
+        "title": "Person Re-Identification by Optimally Organizing Multiple Similarity Measures",
+        "authors": "Lan Lin;; Renjie Huang;; Xudong Li;; Feng Zhang;; Mao Ye; Lan Lin;; Renjie Huang;; Xudong Li;; Feng Zhang;; Mao Ye",
+        "abstract": "Person re-identification refers to matching people across disjoint camera views. Most existing person re-identification methods use the same feature descriptors and similarity metrics for all pedestrian pairs. However, these methods ignore that image pairs with different visual consistency conditions are sensitive to different features and metrics. In this paper, we propose...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8107485"
+    },
+    {
+        "title": "Deep Fusion Feature Presentations for Nonaligned Person Re-Identification",
+        "authors": "Meixia Fu;; Songlin Sun;; Na Chen;; Danshi Wang;; Xiaoyun Tong; Meixia Fu;; Songlin Sun;; Na Chen;; Danshi Wang;; Xiaoyun Tong",
+        "abstract": "Person re-identification aims to retrieve the pedestrian across different cameras. It is still a challenging task for the intelligent visual surveillance system because of similar appearances, camera shooting angles, scene illumination, and pedestrian pose. In this paper, we propose a novel two-stream network named spatial segmentation network that learns both the global and local feat...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727888"
+    },
+    {
+        "title": "Person re-identification with effectively designed parts",
+        "authors": "Yali Zhao;; Yali Li;; Shengjin Wang; Yali Zhao;; Yali Li;; Shengjin Wang",
+        "abstract": "Person re-IDentification (re-ID) is an important research topic in the computer vision community, with significance for a range of applications. Pedestrians are well-structured objects that can be partitioned, although detection errors cause slightly misaligned bounding boxes, which lead to mismatches. In this paper, we study the person re-identification performance of usin...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8858094"
+    },
+    {
+        "title": "Person Re-Identification via Contextual Region-Based Metric Learning in Camera Sensor Networks",
+        "authors": "Zhong Zhang;; Tongzhen Si;; Meiyan Huang;; Shuang Liu; Zhong Zhang;; Tongzhen Si;; Meiyan Huang;; Shuang Liu",
+        "abstract": "Person re-identification in camera sensor networks is a challenging issue due to significant appearance variations of pedestrian images captured by different camera sensors. The contextual information of pedestrian images is a vital cue to overcome appearance variations. However, many existing approaches learn the distance metric in a global way or restrict to corresponding sub-regions...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8861333"
+    },
+    {
+        "title": "Cross Intra-Identity Instance Transformer for Generalizable Person Re-Identification",
+        "authors": "Zhi Han;; Peng Wu;; Xiaoming Zhang;; Renjie Xu;; Jinfeng Li; Zhi Han;; Peng Wu;; Xiaoming Zhang;; Renjie Xu;; Jinfeng Li",
+        "abstract": "Person re-identification (ReID) has made significant progress in recent years, but Domain Generalization person re-identification (DG-ReID) remains a challenging task. Current DG-ReID methods update feature extractors and classifier parameters based on single-instance features. Consequently, these methods might not learn the common features between different instances of ea...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504266"
+    },
+    {
+        "title": "Re-Identification in Differentially Private Incomplete Datasets",
+        "authors": "Yuichi Sei;; Hiroshi Okumura;; Akihiko Ohsuga; Yuichi Sei;; Hiroshi Okumura;; Akihiko Ohsuga",
+        "abstract": "Efforts to counter COVID-19 reaffirmed the importance of rich medical, behavioral, and sociological data. To make data available to many researchers who can conduct statistical analyses and machine learning, personally identifiable information must be excluded to protect individual privacy. It is essential to remove explicit identifiers, sample population data, and apply differential privacy, the ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779455"
+    },
+    {
+        "title": "A Mask-Pooling Model With Local-Level Triplet Loss for Person Re-Identification",
+        "authors": "Fudan Zheng;; Tingting Cai;; Ying Wang;; Chufu Deng;; Zhiguang Chen;; Huiling Zhu; Fudan Zheng;; Tingting Cai;; Ying Wang;; Chufu Deng;; Zhiguang Chen;; Huiling Zhu",
+        "abstract": "Person Re-Identification (ReID) is an important yet challenging task in computer vision. Background clutter is one of the greatest challenges to overcome. In this paper, we propose a Mask-pooling model with local-level triplet loss (MPM-LTL) to tackle this problem and improve person ReID performance. Specifically, we present a novel pooling method, called mask pooling (MP), to gr...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149590"
+    },
+    {
+        "title": "Person Re-IDentification Based on Mutual Learning With Embedded Noise Block",
+        "authors": "Xinyue Fan;; Jia Zhang;; Yang Lin; Xinyue Fan;; Jia Zhang;; Yang Lin",
+        "abstract": "Some person re-identification(Re-ID) algorithms based on deep learning utilizes a baseline as basis to modify, and add some strategies to achieve better performance. Different from the conventional methods, this work combines distillation with mutual learning to construct a person Re-ID model of mutual learning. In training, in view of the characteristics of metric learning, we i...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9505698"
+    },
+    {
+        "title": "An End-to-End Noise-Weakened Person Re-Identification and Tracking With Adaptive Partial Information",
+        "authors": "Xi Yang;; Yingzhi Tang;; Nannan Wang;; Bin Song;; Xinbo Gao; Xi Yang;; Yingzhi Tang;; Nannan Wang;; Bin Song;; Xinbo Gao",
+        "abstract": "Aiming to recognize persons of interest cross cameras in different locations, the technique of person re-identification (re-ID) has attracted unprecedented attention in the field of public security. However, most of the existing work ignores the influence of background noise and pedestrian's partial information on recognition accuracy. Moreover, the tracking procedure which has a...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641312"
+    },
+    {
+        "title": "MSBA: Multiple Scales, Branches and Attention Network With Bag of Tricks for Person Re-Identification",
+        "authors": "Hanlin Tan;; Huaxin Xiao;; Xiaoyu Zhang;; Bin Dai;; Shiming Lai;; Yu Liu;; Maojun Zhang; Hanlin Tan;; Huaxin Xiao;; Xiaoyu Zhang;; Bin Dai;; Shiming Lai;; Yu Liu;; Maojun Zhang",
+        "abstract": "Person re-identification (Re-ID) has become a hot topic in both research and industry. We joined in a person Re-ID challenge of the First National Artificial Intelligence Challenge (China, 2019) and found some model designs and training tricks work great or not on a super big private dataset. In this paper, we propose a model that combines the most effective designs, including mu...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9052718"
+    },
+    {
+        "title": "Identity Adaptation for Person Re-Identification",
+        "authors": "Qiuhong Ke;; Mohammed Bennamoun;; Hossein Rahmani;; Senjian An;; Ferdous Sohel;; Farid Boussaid; Qiuhong Ke;; Mohammed Bennamoun;; Hossein Rahmani;; Senjian An;; Ferdous Sohel;; Farid Boussaid",
+        "abstract": "Person re-identification (re-ID), which aims to identify the same individual from a gallery collected with different cameras, has attracted increasing attention in the multimedia retrieval community. Current deep learning methods for person re-ID focus on learning classification models on training identities to obtain an ID-discriminative embedding (IDE) extractor, which is used ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8452946"
+    },
+    {
+        "title": "Semantic Constraint GAN for Person Re-Identification in Camera Sensor Networks",
+        "authors": "Shuang Liu;; Tongzhen Si;; Xiaolong Hao;; Zhong Zhang; Shuang Liu;; Tongzhen Si;; Xiaolong Hao;; Zhong Zhang",
+        "abstract": "In this paper, we propose a novel data augmentation method named Semantic Constraint Generative Adversarial Network (SCGAN) for person re-identification (Re-ID) in camera sensor networks. The proposed SCGAN can generate multiple style pedestrian images with high-level semantic information. To this end, we design two types of semantic constraints, i.e., attention constraint and identity...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8926336"
+    },
+    {
+        "title": "Hdrnet: Person Re-Identification Using Hybrid Sampling in Deep Reconstruction Network",
+        "authors": "Kajal Kansal;; A. V. Subramanyam; Kajal Kansal;; A. V. Subramanyam",
+        "abstract": "Person re-identification (re-id) is the task of identifying a person across non-overlapping cameras. Most of the current techniques apply deep learning and achieve a significant accuracy. However, learning a deep model that can generalize well against the challenges of pose variation, occlusion, illumination changes, and low resolution is a difficult task. Toward this, we propose...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678632"
+    },
+    {
+        "title": "A Weighted Center Graph Fusion Method for Person Re-Identification",
+        "authors": "Shuze Geng;; Ming Yu;; Yingchun Guo;; Yang Yu; Shuze Geng;; Ming Yu;; Yingchun Guo;; Yang Yu",
+        "abstract": "Feature fusion is widely used in person re-identification (re-ID) and has been proven effective. However, it is difficult to know which features are effective to identify a specific person and how to fuse features to explore complementary information and apply the advantages of each feature. Motivated by these problems, this paper proposes a new method of person re-ID to fu...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640041"
+    },
+    {
+        "title": "Event Anonymization: Privacy-Preserving Person Re-Identification and Pose Estimation in Event-Based Vision",
+        "authors": "Shafiq Ahmad;; Pietro Morerio;; Alessio Del Bue; Shafiq Ahmad;; Pietro Morerio;; Alessio Del Bue",
+        "abstract": "The widespread use of visual surveillance in public areas puts individual privacy at stake while also increasing resource usage (energy, bandwidth, and computation). Neuromorphic vision sensors (or event cameras) are considered viable solutions for privacy issues; since event cameras only capture scene dynamics, they do not capture detailed RGB images of individuals. However, recent deep learning ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528297"
+    },
+    {
+        "title": "Multiscale Reference-Aided Attentive Feature Aggregation for Person Re-Identification",
+        "authors": "Li Xu;; Xiang Fu; Li Xu;; Xiang Fu",
+        "abstract": "In person re-identification (Re-ID), increasing the diversity of pedestrian features can improve recognition accuracy. In standard convolutional neural networks (CNNs), the receptive fields of neurons in each layer are designed to have the same size. Therefore, in complex pedestrian re-identification tasks, the standard CNNs extract local features but are unable to obtain satisfa...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9568915"
+    },
+    {
+        "title": "Asymmetric Projection and Dictionary Learning With Listwise and Identity Consistency Constraints for Person Re-Identification",
+        "authors": "Huafeng Li;; Jinting Zhu;; Dapeng Tao; Huafeng Li;; Jinting Zhu;; Dapeng Tao",
+        "abstract": "Person re-identification aims to identify the same person across non-overlapping camera views. It remains very challenging due to large differences in pose, illumination, and viewpoint between images. To improve robustness to such variations, here we develop a joint asymmetric projection and dictionary-learning algorithm by adopting listwise similarity and identity consistency co...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410867"
+    },
+    {
+        "title": "Discrimination-Aware Integration for Person Re-Identification in Camera Networks",
+        "authors": "Tongzhen Si;; Zhong Zhang;; Shuang Liu; Tongzhen Si;; Zhong Zhang;; Shuang Liu",
+        "abstract": "In this paper, we propose a novel method named Discrimination-Aware Integration (DAI) for person re-identification (re-ID) in camera networks, which not only integrates multiple re-ID models but also adaptively learns integration weights for different feature dimensions. To avoid the tough selection of deep models, we employ different data sources to train the same re-ID model for lear...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8660430"
+    },
+    {
+        "title": "Local Heterogeneous Features for Person Re-Identification in Harsh Environments",
+        "authors": "Haijia Zhang;; Tongzhen Si;; Zhong Zhang;; Ronghua Zhang;; Hao Ma;; Shuang Liu; Haijia Zhang;; Tongzhen Si;; Zhong Zhang;; Ronghua Zhang;; Hao Ma;; Shuang Liu",
+        "abstract": "Local features could learn semantic information for pedestrian images and they are very important for person re-identification (Re-ID) in harsh environments. However, most approaches only optimize one kind of local feature, which results in incomplete local features. In this paper, we propose Local Heterogeneous Features (LHF) to extract discriminative local features from three aspects...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084088"
+    },
+    {
+        "title": "Adversarial Erasing Attention for Person Re-Identification in Camera Networks Under Complex Environments",
+        "authors": "Shuang Liu;; Xiaolong Hao;; Ronghua Zhang;; Zhong Zhang;; Tariq S. Durrani; Shuang Liu;; Xiaolong Hao;; Ronghua Zhang;; Zhong Zhang;; Tariq S. Durrani",
+        "abstract": "Person re-identification (Re-ID) in camera networks under complex environments has achieved promising performance using deep feature representations. However, most approaches usually ignore to learn features from non-salient parts of pedestrian, which results in an incomplete pedestrian representation. In this paper, we propose a novel person Re-ID method named Adversarial Erasin...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043556"
+    },
+    {
+        "title": "Person Re-Identification Based on DropEasy Method",
+        "authors": "Huiyang Wang;; Tao Fang;; Yingle Fan;; Wei Wu; Huiyang Wang;; Tao Fang;; Yingle Fan;; Wei Wu",
+        "abstract": "Currently, majority of person re-identification (reID) technologies are network-constrained by Dropout regularization, which relies on the random zeroing out of some features to make these features more independent. However, such random zeroing regularization methods are not very effective for improving network performance, because they neglect the unique contribution of different feat...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765728"
+    },
+    {
+        "title": "Learning Bias-Free Representation for Large-Scale Person Re-Identification",
+        "authors": "Jiaming Xu;; En Zhu; Jiaming Xu;; En Zhu",
+        "abstract": "Person re-identification (re-ID) aims to match the same person across disjointed cameras. In practice, misalignment is one of the key problems that limits the re-ID accuracy. There are many causes, such as detection errors from automatic detectors, human pose changes and relative movement between people and cameras. However, most current automatic re-ID solutions are still limite...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813095"
+    },
+    {
+        "title": "Proxy-based embedding alignment for RGB-infrared person re-identification",
+        "authors": "Zhaopeng Dou;; Yifan Sun;; Yali Li;; Shengjin Wang; Zhaopeng Dou;; Yifan Sun;; Yali Li;; Shengjin Wang",
+        "abstract": "RGB-Infrared person re-IDentification (re-ID) aims to match RGB and infrared (IR) images of the same person. However, the modality discrepancy between RGB and IR images poses a significant challenge for re-ID. To address this issue, this paper proposes a Proxy-based Embedding Alignment (PEA) method to align the RGB and IR modalities in the embedding space. PEA introduces modality...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494932"
+    },
+    {
+        "title": "Regularizing Binary Neural Networks via Ensembling for Efficient Person Re-Identification",
+        "authors": "Ayse Serbetci;; Yusuf Sinan Akgul; Ayse Serbetci;; Yusuf Sinan Akgul",
+        "abstract": "This study aims to leverage Binary Neural Networks (BNN) to learn binary hash codes for efficient person re-identification (ReID). BNNs, which use binary weights and activations, show promise in speeding up the inference time in deep models. However, BNNs typically suffer from performance degradation mainly due to the discontinuity of the binarization operation. Proxy functions have be...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10138817"
+    },
+    {
+        "title": "Person Re-Identification Based on Partition Adaptive Network Structure and Channel Partition Weight Adaptive",
+        "authors": "Wenjie Chen;; Fan Yang; Wenjie Chen;; Fan Yang",
+        "abstract": "This article noticed that the feature of the block in human body image is noticeable, some algorithms in pedestrian re-identification are based on partitioning the human body to calculate the similarity between pedestrians images. However, it is not easy to find a proper method to partition the pedestrian image. This article proposes a method partition adaptive network structure (PANS) to au...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9486930"
+    },
+    {
+        "title": "Gait Recognition and Re-Identification Based on Regional LSTM for 2-Second Walks",
+        "authors": "Piya Limcharoen;; Nirattaya Khamsemanan;; Cholwich Nattee; Piya Limcharoen;; Nirattaya Khamsemanan;; Cholwich Nattee",
+        "abstract": "Law enforcement and different authorities need a new efficient way to track and re-identify a person of interest via different cameras. Usually, the person of interest is not known and the original video may be short and have poor quality. In this paper, we propose a new technique based on a new regional-LSTM learning model that can use a 2-second walk to recognize and re-identify an u...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508421"
+    },
+    {
+        "title": "Integration Convolutional Neural Network for Person Re-Identification in Camera Networks",
+        "authors": "Zhong Zhang;; Tongzhen Si;; Shuang Liu; Zhong Zhang;; Tongzhen Si;; Shuang Liu",
+        "abstract": "In this paper, we propose a novel deep model named integration convolutional neural network (ICNN) for person re-identification in camera networks, which jointly learns global and local features in a unified framework. To this end, the proposed ICNN simultaneously applies two kinds of loss functions. Specifically, we propose the soft triplet loss to learn global features which automati...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8402217"
+    },
+    {
+        "title": "Identity Preserving Generative Adversarial Network for Cross-Domain Person Re-Identification",
+        "authors": "Jialun Liu;; Wenhui Li;; Hongbin Pei;; Ying Wang;; Feng Qu;; You Qu;; Yuhao Chen; Jialun Liu;; Wenhui Li;; Hongbin Pei;; Ying Wang;; Feng Qu;; You Qu;; Yuhao Chen",
+        "abstract": "In this paper, we study the domain adaptive person re-identification(re-ID) problem: train a re-ID model on the labeled source domain and test it on the unlabeled target domain. It's known challenging due to the feature distribution bias between the source domain and target domain. The previous methods directly reduce the bias by image-to-image style translation between the source and ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8792068"
+    },
+    {
+        "title": "Coarse-Fine Convolutional Neural Network for Person Re-Identification in Camera Sensor Networks",
+        "authors": "Zhong Zhang;; Haijia Zhang;; Shuang Liu; Zhong Zhang;; Haijia Zhang;; Shuang Liu",
+        "abstract": "In this paper, we present a novel deep model named coarse-fine convolutional neural network (CFCNN) for person re-identification in camera sensor networks, which jointly learns global and multi-scale local features simultaneously. To this end, we design the CFCNN as a multi-branch network, which is composed of one coarse and two fine branches. Specifically, the global feature is learne...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8718673"
+    },
+    {
+        "title": "Optimizing Multi-Granularity Region Similarity for Person Re-Identification",
+        "authors": "Cuiqun Chen;; Meibin Qi;; Ning Yang;; Wei Li;; Jianguo Jiang; Cuiqun Chen;; Meibin Qi;; Ning Yang;; Wei Li;; Jianguo Jiang",
+        "abstract": "Person re-identification (re-id) is one of the hottest research topics due to its great value in video analysis applications, such as indoor security and road surveillance. It has been verified as beneficial for re-id to joint global and local features in the recent literature. However, most existing methods usually extract the features of the global region or divide the whole image in...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598715"
+    },
+    {
+        "title": "Graph-Induced Contrastive Learning for Intra-Camera Supervised Person Re-Identification",
+        "authors": "Menglin Wang;; Baisheng Lai;; Jianqiang Huang;; Xiaojin Gong;; Xian-Sheng Hua; Menglin Wang;; Baisheng Lai;; Jianqiang Huang;; Xiaojin Gong;; Xian-Sheng Hua",
+        "abstract": "Intra-camera supervision (ICS) for person re-identification (Re-ID) assumes that identity labels are independently annotated within each camera view and no inter-camera identity association is labeled. It is a new setting proposed recently to reduce the burden of annotation while expect to maintain desirable Re-ID performance. However, the lack of inter-camera labels makes the ICS Re-I...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337911"
+    },
+    {
+        "title": "Region Constraint Person Re-Identification via Partial Least Square on Riemannian Manifold",
+        "authors": "Chen Zhang;; Qiaoling Liu; Chen Zhang;; Qiaoling Liu",
+        "abstract": "Person re-identification refers to matching images of pedestrians from camera networks distributed at different locations. It involves multiple challenging problems, especially large variations in illumination, viewpoint, and occlusion which exert negative affect on recognition rate. In this paper, we propose the partial least square (PLS) algorithm based on the Riemannian manifold. Th...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8306111"
+    },
+    {
+        "title": "Person Re-Identification Based on Two-Stream Network With Attention and Pose Features",
+        "authors": "Xiaowei Gong;; Suguo Zhu; Xiaowei Gong;; Suguo Zhu",
+        "abstract": "Due to posture, blurring, occlusion, and other problems, person re-identification(Re-ID) remains a challenging task at present. In this paper, we combine the advantages of pose estimation and attention mechanism to better solve these problems with better performance, which combines pose and attention with two-stream network. Our proposed method mainly consists of two parts. 1) Spatial ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8795487"
+    },
+    {
+        "title": "Improving semantic part features for person re-identification with supervised non-local similarity",
+        "authors": "Yifan Sun;; Zhaopeng Dou;; Yali Li;; Shengjin Wang; Yifan Sun;; Zhaopeng Dou;; Yali Li;; Shengjin Wang",
+        "abstract": "In person re-IDentification (re-ID) task, the learning of part-level features benefits from fine-grained information. To facilitate part alignment, which is a prerequisite for learning part-level features, a popular approach is to detect semantic parts with the use of human parsing or pose estimation. Such methods of semantic partition do offer cues to good part alignment but are prone...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9036140"
+    },
+    {
+        "title": "Neighboring-Part Dependency Mining and Feature Fusion Network for Person Re-Identification",
+        "authors": "Chuan Zhu;; Wenjun Zhou;; Yingjun Zhu;; Jianmin Ma; Chuan Zhu;; Wenjun Zhou;; Yingjun Zhu;; Jianmin Ma",
+        "abstract": "Person re-identification (Re-ID) is a computer vision technique used to determine the presence of a specific pedestrian target in an image or video sequence. It is an important branch of image retrieval. With the advancements in deep learning, notable progress has been achieved in Re-ID research. However, existing methods primarily focus on the most prominent features in the image, ign...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10121442"
+    },
+    {
+        "title": "Spatial-Transformed Regional Quality Estimation Network for Large-Variance Person Re-Identification",
+        "authors": "Ming Jiang;; Biao Leng;; Zhijun Meng;; Guanglu Song; Ming Jiang;; Biao Leng;; Zhijun Meng;; Guanglu Song",
+        "abstract": "The video-based person re-identification aims to search a query video in a large video gallery. The major restrictions on the performance of this task are image misalignment and partial noises caused by detection error, occlusion, blur, and illumination. The misalignment between the different frames in a video caused by excessive background or part missing may play the devil with pedes...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8795486"
+    },
+    {
+        "title": "Deep Classification Consistency for Person Re-Identification",
+        "authors": "Yuhao Bian;; Xiuping Liu;; Shengjing Tian;; Hongchen Tan;; Jie Zhang; Yuhao Bian;; Xiuping Liu;; Shengjing Tian;; Hongchen Tan;; Jie Zhang",
+        "abstract": "Person re-identification (Re-ID) has greatly benefited from utilizing features of different levels. Most methods draw support from elegant network designs and elaborate fusion modules. In this paper, different from employing multi-level feature fusion like mainstream skip connection methods, we propose a Deep Classification Consistency(DCC) layer which imposes classification consistenc...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9229164"
+    },
+    {
+        "title": "Fine-Grained Fusion With Distractor Suppression for Video-Based Person Re-Identification",
+        "authors": "Jiali Xi;; Qin Zhou;; Yiru Zhao;; Shibao Zheng; Jiali Xi;; Qin Zhou;; Yiru Zhao;; Shibao Zheng",
+        "abstract": "Video based person re-identification aims to associate video clips with the same identity by designing discriminative and representative features. Existing approaches simply compute representations for video clips via frame-level or region-level feature aggregation, where fine-grained local information is inaccessible. To address this issue, we propose a novel module called fine-graine...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782110"
+    },
+    {
+        "title": "Person Re-Identification by Weighted Integration of Sparse and Collaborative Representation",
+        "authors": "Jie Guo;; Yuele Zhang;; Zheng Huang;; Weidong Qiu; Jie Guo;; Yuele Zhang;; Zheng Huang;; Weidong Qiu",
+        "abstract": "Recognizing the certain person of interest in cameras of different viewpoints is known as the task of person re-identification. It has been a challenging job considering the variation in human pose, the changing illumination conditions and the lack of paired samples. Previous matching techniques in the person re-identification field mainly focus on Mahalanobis-like me...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8070940"
+    },
+    {
+        "title": "DaliID: Distortion-Adaptive Learned Invariance for Identification\u2014A Robust Technique for Face Recognition and Person Re-Identification",
+        "authors": "Wes Robbins;; Gabriel Bertocco;; Terrance E. Boult; Wes Robbins;; Gabriel Bertocco;; Terrance E. Boult",
+        "abstract": "In real-world applications, face recognition, and person re-identification are subject to image degradations such as motion blur, atmospheric turbulence, or upsampling artifacts\u2014which are known to lower performance. This work directly addresses challenges in low-quality scenarios with 1) practical, novel updates to training and inference, which improve robustness to realistic distortio...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494315"
+    },
+    {
+        "title": "Pedestrian Re-Identification Based on Gait Analysis",
+        "authors": "Yuxiang Shan;; Gang Yu;; Yanghua Gao; Yuxiang Shan;; Gang Yu;; Yanghua Gao",
+        "abstract": "Pedestrian re-identification is a crucial task in various safety applications, such as traffic management, collision avoidance, and emergency response. One of the challenging issues in pedestrian re-identification is how to identify the same object when the collection perspective changes or carrying different items. To address the above issues, this paper proposes a new gait based pede...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10266347"
+    },
+    {
+        "title": "Service for the Pseudonymization of Electronic Healthcare Records Based on ISO/EN 13606 for the Secondary Use of Information",
+        "authors": "Roberto Somolinos;; Adolfo Mu\u00f1oz;; M. Elena Hernando;; Mario Pascual;; Jes\u00fas C\u00e1ceres;; Ricardo S\u00e1nchez-de-Madariaga;; Juan A. Fragua;; Pablo Serrano;; Carlos H. Salvador; Roberto Somolinos;; Adolfo Mu\u00f1oz;; M. Elena Hernando;; Mario Pascual;; Jes\u00fas C\u00e1ceres;; Ricardo S\u00e1nchez-de-Madariaga;; Juan A. Fragua;; Pablo Serrano;; Carlos H. Salvador",
+        "abstract": "The availability of electronic health data favors scientific advance through the creation of repositories for secondary use. Data anonymization is a mandatory step to comply with current legislation. A service for the pseudonymization of electronic healthcare record (EHR) extracts aimed at facilitating the exchange of clinical information for secondary use in compliance with legislation on data pr...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6911939"
+    },
+    {
+        "title": "Sparse Label Smoothing Regularization for Person Re-Identification",
+        "authors": "Jean-Paul Ainam;; Ke Qin;; GuiSong Liu;; Guangchun Luo; Jean-Paul Ainam;; Ke Qin;; GuiSong Liu;; Guangchun Luo",
+        "abstract": "Person re-identification (re-id) is a cross-camera retrieval task which establishes a correspondence between images of a person from multiple cameras. Deep learning methods have been successfully applied to this problem and have achieved impressive results. However, these methods require a large amount of labeled training data. Currently, the labeled datasets in person re-i...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8651511"
+    },
+    {
+        "title": "Person Re-Identification With Triplet Focal Loss",
+        "authors": "Shizhou Zhang;; Qi Zhang;; Xing Wei;; Yanning Zhang;; Yong Xia; Shizhou Zhang;; Qi Zhang;; Xing Wei;; Yanning Zhang;; Yong Xia",
+        "abstract": "Person re-identification (ReID), which aims at matching individuals across non-overlapping cameras, has attracted much attention in the field of computer vision due to its research significance and potential applications. Triplet loss-based CNN models have been very successful for person ReID, which aims to optimize the feature embedding space such that the distances between samp...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8558553"
+    },
+    {
+        "title": "Deeply-Learned Spatial Alignment for Person Re-Identification",
+        "authors": "Dongyue Chen;; Peng Chen;; Xiaosheng Yu;; Mengjiao Cao;; Tong Jia; Dongyue Chen;; Peng Chen;; Xiaosheng Yu;; Mengjiao Cao;; Tong Jia",
+        "abstract": "A large class of Person Re-identification (ReID) approaches identify pedestrians with the TriHard loss. Though the TriHard loss is a robust ReID method, pose variance and viewpoint in pedestrians constrain the performance. To address this problem, we introduce a spatial transformer network (STN) to align pedestrians. Then, we illustrate the generality of the STN module in pose variance...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8856191"
+    },
+    {
+        "title": "AS-RIG: Adaptive Selection of Reconstructed Input by Generator or Interpolation for Person Re-Identification in Cross-Modality Visible and Thermal Images",
+        "authors": "Jin Kyu Kang;; Min Beom Lee;; Hyo Sik Yoon;; Kang Ryoung Park; Jin Kyu Kang;; Min Beom Lee;; Hyo Sik Yoon;; Kang Ryoung Park",
+        "abstract": "Multimodal camera-based person re-identification (ReID) is important in the field of intelligent surveillance. Thermal cameras can solve the problem in that visible-light cameras cannot acquire the valid feature information of a person under poor illumination conditions. However, thermal cameras usually have lower frame resolution than visible-light cameras. To overcome this prob...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9324824"
+    },
+    {
+        "title": "View-Invariant and Similarity Learning for Robust Person Re-Identification",
+        "authors": "Jean-Paul Ainam;; Ke Qin;; Guisong Liu;; Guangchun Luo; Jean-Paul Ainam;; Ke Qin;; Guisong Liu;; Guangchun Luo",
+        "abstract": "Person re-identification aims to identify pedestrians across non-overlapping camera views. Deep learning methods have been successfully applied to solving the problem and have achieved impressive results. However, these methods rely either on feature extraction or metric learning alone ignoring the joint benefit and mutual complementary effects of the person view-specific represe...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8933371"
+    },
+    {
+        "title": "Feature Fusion and Center Aggregation for Visible-Infrared Person Re-Identification",
+        "authors": "Xianju Wang;; Cuiqun Chen;; Yong Zhu;; Shuguang Chen; Xianju Wang;; Cuiqun Chen;; Yong Zhu;; Shuguang Chen",
+        "abstract": "The visible-infrared pedestrian re- identification (VI Re-ID) task aims to match cross-modality pedestrian images with the same labels. Most current methods focus on mitigating the modality discrepancy by adopting a two-stream network and identity supervision. Based on current methods, we propose a novel feature fusion and center aggregation learning network ( $F^{2}$ CALNet) for cross-modal...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9736957"
+    },
+    {
+        "title": "Global and Part Feature Fusion for Cross-Modality Person Re-Identification",
+        "authors": "Xianju Wang;; Ronald S. Cordova; Xianju Wang;; Ronald S. Cordova",
+        "abstract": "Visible-Infrared person re-identification (VI Re-ID) is a challenging but practical task that aims at matching pedestrian images between the visible(daytime) modality and the infrared(nighttime) modality, playing an important role in criminal investigation and intelligent video surveillance applications. Numerous previous studies focused on alleviating the modality discrepancy and obta...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950485"
+    },
+    {
+        "title": "Deep Multi-Task Network for Learning Person Identity and Attributes",
+        "authors": "Philip Chikontwe;; Hyo Jong Lee; Philip Chikontwe;; Hyo Jong Lee",
+        "abstract": "Person re-identification (re-ID) has been gaining in popularity in the research community owing to its numerous applications and growing importance in the surveillance industry. Recent methods often employ partial features for person re-ID and offer fine-grained information beneficial for person retrieval. In this paper, we focus on learning improved partial discriminative ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490820"
+    },
+    {
+        "title": "Multi-Camera People Tracking With Spatio-Temporal and Group Considerations",
+        "authors": "Shoki Sakaguchi;; Motoki Amagasaki;; Masato Kiyama;; Toshiaki Okamoto; Shoki Sakaguchi;; Motoki Amagasaki;; Masato Kiyama;; Toshiaki Okamoto",
+        "abstract": "Multi-camera people tracking (MCPT) has become increasingly relevant in recent years as the demand for accurate people-tracking systems has increased along with the growing number of surveillance cameras. There are challenges that MCPT must overcome, such as changes in a person\u2019s appearance due to illumination and changes in viewpoint and posture between cameras. Additionally, occlusion is l...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458119"
+    },
+    {
+        "title": "Learning Domain-Specific Features From General Features for Person Re-Identification",
+        "authors": "Chengqiu Dai;; Junying Feng;; Ruiling Zhou; Chengqiu Dai;; Junying Feng;; Ruiling Zhou",
+        "abstract": "Person re-identification (re-id) plays a vital role in surveillance and forensics application. Since the labeled images for person re-id task is limited, the generalization ability of existed person re-id models is poor. On the other hand, images of different classes (pedestrian and non-pedestrian images) share some general features. To this end, this paper aims to improve ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9173660"
+    },
+    {
+        "title": "A Novel Approach Based on Multi-Level Bottleneck Attention Modules Using Self-Guided Dropblock for Person Re-Identification",
+        "authors": "Muhammad Usman Yaseen;; Moustafa M. Nasralla;; Faiza Aslam;; Syed Sohaib Ali;; Sohaib Bin Altaf Khattak; Muhammad Usman Yaseen;; Moustafa M. Nasralla;; Faiza Aslam;; Syed Sohaib Ali;; Sohaib Bin Altaf Khattak",
+        "abstract": "Person re-identification has inspired a lot of interest due to its significance in intelligent video surveillance. It is a difficult task due to the presence of critical challenges such as changes in appearance, misalignment, occlusion and background noise. Batch drop block layer (BDB) has been used recently in person re-identification by exploiting the feature erasing proc...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955516"
+    },
+    {
+        "title": "Multi-Stream Refining Network for Person Re-Identification",
+        "authors": "Xu Wang;; Yan Huang;; Qicong Wang;; Yan Chen;; Yehu Shen; Xu Wang;; Yan Huang;; Qicong Wang;; Yan Chen;; Yehu Shen",
+        "abstract": "Viewpoint change, pose variation and background clutter have adverse impacts on similarity evaluation for person re-identification. Because of its distinction and reliability, person saliency has been applied to model person appearance characteristics. However, such valuable information is not fully exploited to compute similarities of person images with existing deep...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311208"
+    },
+    {
+        "title": "A Novel Soft Margin Loss Function for Deep Discriminative Embedding Learning",
+        "authors": "Zhao Yang;; Tie Liu;; Jiehao Liu;; Li Wang;; Sai Zhao; Zhao Yang;; Tie Liu;; Jiehao Liu;; Li Wang;; Sai Zhao",
+        "abstract": "Deep embedding learning aims to learn discriminative feature representations through a deep convolutional neural network model. Commonly, such a model contains a network architecture and a loss function. The architecture is responsible for hierarchical feature extraction, while the loss function supervises the training procedure with the purpose of maximizing inter-class separability and intra-cla...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9249024"
+    },
+    {
+        "title": "Improving Unsupervised Domain Adaptive Re-Identification Via Source-Guided Selection of Pseudo-Labeling Hyperparameters",
+        "authors": "Fabian Dubourvieux;; Ang\u00e9lique Loesch;; Romaric Audigier;; Samia Ainouz;; St\u00e9phane Canu; Fabian Dubourvieux;; Ang\u00e9lique Loesch;; Romaric Audigier;; Samia Ainouz;; St\u00e9phane Canu",
+        "abstract": "Unsupervised Domain Adaptation (UDA) for re-identification (re-ID) is a challenging task: to avoid a costly annotation of additional data, it aims at transferring knowledge from a domain with annotated data to a domain of interest with only unlabeled data. Pseudo-labeling approaches have proven to be effective for UDA re-ID. However, the effectiveness of these approaches heavily depends on t...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9597556"
+    },
+    {
+        "title": "Part Relational Mean Model for Group Re-Identification",
+        "authors": "Ping Hu;; Hongwei Zheng;; Weishi Zheng; Ping Hu;; Hongwei Zheng;; Weishi Zheng",
+        "abstract": "Most current research on pedestrian re-identification (ReID) is focusing on single-person ReID. However, people are rarely alone and often walk together in groups. Therefore, there is an urgent need to study the problem of group ReID (G-ReID). G-ReID is challenging because of the difficulties related to the differences in group appearance caused by changes in the group layout and membe...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378526"
+    },
+    {
+        "title": "Physical Adversarial Attacks for Camera-Based Smart Systems: Current Trends, Categorization, Applications, Research Challenges, and Future Outlook",
+        "authors": "Amira Guesmi;; Muhammad Abdullah Hanif;; Bassem Ouni;; Muhammad Shafique; Amira Guesmi;; Muhammad Abdullah Hanif;; Bassem Ouni;; Muhammad Shafique",
+        "abstract": "Deep Neural Networks (DNNs) have shown impressive performance in computer vision tasks; however, their vulnerability to adversarial attacks raises concerns regarding their security and reliability. Extensive research has shown that DNNs can be compromised by carefully crafted perturbations, leading to significant performance degradation in both digital and physical domains. Therefore, ensuring the...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268441"
+    },
+    {
+        "title": "Channel Transformer Network",
+        "authors": "Fuping Zhang;; Pengcheng Zhao;; Jianming Wei; Fuping Zhang;; Pengcheng Zhao;; Jianming Wei",
+        "abstract": "Current attention or transform modules in Convolutional Neural Networks (CNNs) are designed pursuing lightweight and in-place. Generally, we need to decrease the channel dimension of input feature maps for reducing computation cost firstly. And then we do some transformation for extracting weight maps or converting to other feature space etc. Finally, we increase the channel dimension back for out...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9281018"
+    },
+    {
+        "title": "A Blockchain-Enabled Multiple Object Tracking for Unmanned System With Deep Hash Appearance Feature",
+        "authors": "Zhenguo Ding;; Sitong Liu;; Min Li;; Zhichao Lian;; Hui Xu; Zhenguo Ding;; Sitong Liu;; Min Li;; Zhichao Lian;; Hui Xu",
+        "abstract": "The unmanned system based on mobile-edge computing (MEC) and blockchain can conveniently share computing resources and realize multi-devices collaboration. However, frequent data communication in the framework of object detection brings a heavy computational burden. In this paper, a novel blockchain-based multi-view unmanned equipment fusion architecture using multiple object tracking (MOT) techni...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9301297"
+    },
+    {
+        "title": "Merging Super Resolution and Attribute Learning for Low-Resolution Person Attribute Recognition",
+        "authors": "Ramin Abbaszadi;; Nazli Ikizler-Cinbis; Ramin Abbaszadi;; Nazli Ikizler-Cinbis",
+        "abstract": "In video surveillance, visual person attributes such as gender, backpack, type of clothing are crucial for person search or re-identification. For detecting and retrieving these attributes with high accuracy, the availability of high-quality videos is a necessity in general. However, this cannot be guaranteed in general surveillance videos or images; beside improving hardware tec...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733333"
+    },
+    {
+        "title": "Learning Robust Embedding Representation With Hybrid Loss for Classification and Verification",
+        "authors": "Haozhi Huang;; Yanyan Liang; Haozhi Huang;; Yanyan Liang",
+        "abstract": "This paper presents a method of building an embedding representation via deep metric learning, which works well in both classification and verification problems. The embedding is built via a proposed hybrid loss, which consists of a softmax loss and a Euclidean-metric loss. The hybrid loss explores the tradeoff, balancing the discriminativeness and invariance. In deep metric learning, a softmax lo...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8624290"
+    },
+    {
+        "title": "The Anonymity of the Dark Web: A Survey",
+        "authors": "Javeriah Saleem;; Rafiqul Islam;; Muhammad Ashad Kabir; Javeriah Saleem;; Rafiqul Islam;; Muhammad Ashad Kabir",
+        "abstract": "The dark web is a section of the Internet that is not accessible to search engines and requires an anonymizing browser called Tor. Its hidden network and anonymity pave the way for illegal activities and help cybercriminals to execute well-planned, coordinated, and malicious cyberattacks. Cyber security experts agree that online criminal activities are increasing exponentially, and they are also b...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9739708"
+    },
+    {
+        "title": "Incremental $k$ -Anonymous Microaggregation in Large-Scale Electronic Surveys With Optimized Scheduling",
+        "authors": "David Rebollo-Monedero;; C\u00e9Sar Hern\u00e1Ndez-Baigorri;; Jordi Forn\u00e9;; Miguel Soriano; David Rebollo-Monedero;; C\u00e9Sar Hern\u00e1Ndez-Baigorri;; Jordi Forn\u00e9;; Miguel Soriano",
+        "abstract": "Improvements in technology have led to enormous volumes of detailed personal information made available for any number of statistical studies. This has stimulated the need for anonymization techniques striving to attain a difficult compromise between the usefulness of the data and the protection of our privacy. The k-anonymous microaggregation permits releasing a dataset where each person re...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8491270"
+    },
+    {
+        "title": "Dual-Attention-Driven Multiscale Fusion Object Searching Network for Remote Sensing Imagery",
+        "authors": "Haolong Fu;; Qingpeng Li;; Puhong Duan;; Jiacheng Lin;; Renwei Dian;; Shutao Li;; Xudong Kang;; Zhiyong Li; Haolong Fu;; Qingpeng Li;; Puhong Duan;; Jiacheng Lin;; Renwei Dian;; Shutao Li;; Xudong Kang;; Zhiyong Li",
+        "abstract": "Object search is a challenging yet important task. Many efforts have been made to address this issue and achieve great progress in natural image, yet searching all the specified types of objects from remote sensing image is barely studied. In this article, we are interested in searching objects from remote sensing images. Compared to person search in natural scenes, this task is challenging ...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893909"
+    },
+    {
+        "title": "Normalized Maximal Margin Loss for Open-Set Image Classification",
+        "authors": "Chunmei Ma;; Huazhi Sun;; Jinqi Zhu;; Long Zhang;; Bojue Wang;; Donghao Wu;; Jingwei Sun; Chunmei Ma;; Huazhi Sun;; Jinqi Zhu;; Long Zhang;; Bojue Wang;; Donghao Wu;; Jingwei Sun",
+        "abstract": "This work aims to address the image classification problem under open-set protocol: classes in test set do not appear in the training set. Intuitively, convolutional Neural Network (CNN) with softmax loss is a straight-forward solution. However, the unknown class (is not predefined in the training set) makes the boundaries of intra-class and inter-class more blurred, which brings more challenges f...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383024"
+    },
+    {
+        "title": "DCPDN: High-Performance Pedestrian Detection Networks for Difficult Conditions",
+        "authors": "Yi Chen;; Xinqing Wang;; Yan Ouyang; Yi Chen;; Xinqing Wang;; Yan Ouyang",
+        "abstract": "Pedestrian detection is the use of computer vision technology to identify and accurately locate pedestrians in image or video data, which has a strong use value. This technology can be used as the research basis for visual tasks such as person re-identification, human pose estimation and behavior analysis, and can also be applied to industrial fields such as intelligent security, autom...",
+        "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10176133"
+    }
+]

@@ -1,0 +1,6 @@
+playwright
+PyPDF2
+requests
+openai
+pandas
+

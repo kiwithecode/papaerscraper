@@ -1,0 +1,262 @@
+[
+    {
+        "title": "1607.00417v1.pdf",
+        "criteria": {
+            "Enfoque": "Continuous adaptation of multi-camera person identification models",
+            "Datasets": "Large multi-sensor data from camera networks",
+            "Descriptores": "Sparse non-redundant representative selection",
+            "Clasificadores": "Structure preserving sparse reconstruction based classifier",
+            "Precisión": "Framework for online update of classifiers with minimal overlap and training burden."
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo son la apariencia física y la identificación basada en modelos de aprendizaje.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "El artículo utiliza características biométricas de apariencia física para la identificación de personas en imágenes.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Las técnicas de preprocesamiento de imágenes que se utilizan para mejorar la calidad de la imagen son el filtrado, la equalización del histograma, la reducción de ruido y la mejora de contraste.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características son la selección de muestras representativas y la reconstrucción escasa basada en la preservación de la estructura.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo de aprendizaje automático utilizado en este trabajo es un clasificador basado en reconstrucción escasa y preservación de estructura.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos/algoritmos de aprendizaje profundo para re-identificar a personas son: Convex optimization y Structure preserving sparse reconstruction basados en selección de muestras representativas no redundantes.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "Identificación y seguimiento de grupos de personas.",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de Continuous Adaptation.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper no se especifica en el texto proporcionado.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es proponer un marco de trabajo novedoso para la actualización en línea de modelos de identificación de personas a través de la selección de muestras representativas y no redundantes de forma iterativa.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs y posiblemente GPUs para realizar la optimización convexa y reconstrucción esparcida empleadas en el modelo de identificación de personas.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo incluyen la precisión. Los valores de precisión alcanzados no se mencionan en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron múltiples cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas utiliza técnicas de preprocesamiento, visión por computador y modelos de machine learning."
+        }
+    },
+    {
+        "title": "1804.11027v1.pdf",
+        "criteria": {
+            "Enfoque": "Aprendizaje de representaciones relativas para la reidentificación de personas.",
+            "Datasets": "No se mencionan explícitamente en el texto.",
+            "Descriptores": "Representaciones flexibles que capturan las interacciones entre imágenes emparejadas.",
+            "Clasificadores": "Red neuronal arquitectura para determinar la similitud entre imágenes emparejadas.",
+            "Precisión": "Rápida competencia de aprendizaje para juzgar la similitud entre distintas regiones de imágenes emparejadas."
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Este artículo se enfoca en la re-identificación de personas utilizando características soft-biométricas y de descripción visual general para detectar regiones relevantes en imágenes de peatones a comparar.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Este artículo utiliza características biométricas de regiones específicas de las imágenes de personas.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Algunas técnicas de preprocesamiento de imágenes que se utilizan para mejorar la calidad de la imagen son el ajuste de contraste, la eliminación de ruido, la corrección de color, el recorte de imágenes y la normalización de histogramas.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas son Deep Co-attention based Comparators.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y algoritmos de aprendizaje automático que re-identifican a personas son Deep Co-attention based Comparators (DCCs).",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo Deep Co-attention based Comparators (DCCs) se utiliza para la re-identificación de personas mediante aprendizaje profundo.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "Identificación y seguimiento de grupos de personas",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de comparación basado en la atención conjunta.",
+            "¿Cuál es el datasets utilizado en este paper?": "Deep Co-attention based Comparators (DCCs)",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es desarrollar Deep Co-attention based Comparators para el Aprendizaje de Representaciones Relativas en la Reidentificación de Personas.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación no son mencionadas en el texto.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "No se menciona que se hayan realizado experimentos en un circuito cerrado de cámaras en el texto proporcionado.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas es el uso de Deep Co-attention based Comparators para la representación relativa en el aprendizaje de representación de personas."
+        }
+    },
+    {
+        "title": "1904.05005v1.pdf",
+        "criteria": {
+            "Enfoque": "Person Re-identification",
+            "Datasets": "No mencionados",
+            "Descriptores": "Feature representation",
+            "Clasificadores": "Metric learning",
+            "Precisión": "High matching score"
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas de una persona que utiliza este artículo son su apariencia física como rasgos faciales, estatura, complexión, entre otros. Además, se pueden incluir características de descripción visual general como color de cabello, color de ojos, forma del rostro, entre otros.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Las características biométricas que utiliza este artículo son la apariencia humana en diferentes vistas de cámara y la distancia entre imágenes de prueba y galería.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Las técnicas de preprocesamiento de imágenes que se utilizan para mejorar la calidad de la imagen incluyen la eliminación de ruido, la mejora del contraste, la normalización de la iluminación y la reducción de la resolución.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características incluyen el aprendizaje de métricas discriminantes y el uso de información privilegiada durante el entrenamiento.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo/algoritmo de aprendizaje automático que se menciona en el texto es el método de aprendizaje métrico discriminante logístico utilizando información privilegiada.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo/algoritmo de aprendizaje profundo que re-identifica a personas es el Logistic Discriminant Metric Learning utilizando Privileged Information.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "Identificación y seguimiento de grupos de personas",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de aprendizaje utilizando información privilegiada.",
+            "¿Cuál es el datasets utilizado en este paper?": "El datasets utilizado en este paper no se menciona específicamente en el texto proporcionado.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es presentar un método de aprendizaje métrico discriminante logístico utilizando información privilegiada para re-identificación de personas.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs y/o GPUs.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo son la precisión y el valor de la tasa de aciertos. Los valores de precisión alcanzados no se mencionan en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron dos cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, visión por computador, machine learning y deep learning se basa en el uso de información privilegiada durante el entrenamiento para aprender una función de distancia óptima mediante la construcción de una regla de decisión localmente adaptativa."
+        }
+    },
+    {
+        "title": "2208.12023v1.pdf",
+        "criteria": {
+            "Enfoque": "",
+            "Datasets": "",
+            "Descriptores": "",
+            "Clasificadores": "",
+            "Precisión": ""
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas de la persona que utiliza este artículo son la identificación de la persona bajo cambios de ropa. La descripción visual general incluye la eliminación de distracciones de la apariencia de la ropa y la restauración de detalles faciales.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Las características biométricas que utiliza este artículo son human biometric traits y facial details.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Algunas técnicas de preprocesamiento de imágenes para mejorar la calidad de la imagen son el filtrado, la normalización de histogramas, la reducción de ruido y el aumento del contraste.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características en este estudio son el módulo de Atención Espacial no relevante de ropa y la restauración de detalles faciales utilizando conocimiento previo de caras.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo propuesto es el Identity-Sensitive Knowledge Propagation Framework (DeSKPro) para Cloth-Changing Person Re-identification.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo propuesto es el framework Identity-Sensitive Knowledge Propagation (DeSKPro) para la re-identificación de personas que cambian de ropa.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "El artículo se refiere al enfoque de Identificación de personas con cambio de vestimenta (CC-ReID).",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de Identity-Sensitive Knowledge Propagation para Cloth-changing person re-identification.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper no se menciona explícitamente en el texto proporcionado.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es proponer un marco de trabajo eficaz para la re-identificación de personas que cambian de ropa, con el objetivo de mejorar el rendimiento y reducir los costos computacionales asociados con métodos típicos de biometría.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza tanto CPUs como GPUs.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas son la precisión y los valores alcanzados no están especificados en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron varias cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning es la propuesta de un marco de trabajo llamado Identity-Sensitive Knowledge Propagation (DeSKPro) para Cloth-changing person re-identiﬁcation (CC-ReID)."
+        }
+    },
+    {
+        "title": "A Fast Non-Overlapping Multi-Camera People Re-Identification Algorithm and Tracking Based on Visual Channel Model.pdf",
+        "criteria": {
+            "Enfoque": "Propuesta de algoritmo para seguimiento de objetos y re-identificación de personas.",
+            "Datasets": "No se mencionan específicamente en el texto.",
+            "Descriptores": "Características de color para re-identificación.",
+            "Clasificadores": "No se mencionan específicamente en el texto.",
+            "Precisión": "49.7% en Rank 1 y 87.55% en Rank 10 en promedio."
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas de una persona que utiliza este artículo son la identificación basada en características visuales como el color del objeto.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "El artículo utiliza características biométricas visuales para la re-identificación de personas.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Las técnicas de preprocesamiento de imágenes que se utilizan para mejorar la calidad de la imagen incluyen la eliminación de ruido, ajuste de contraste, aumento de nitidez, corrección de color, y filtrado de imagen.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características son las características principales de color infladas.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El algoritmo propuesto en el artículo es un algoritmo de re-identificación de personas basado en el modelo de canal visual.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El algoritmo propuesto en el artículo es un modelo de re-identificación de personas basado en el modelo de canal visual.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "El artículo se refiere al enfoque de \"Identificación y seguimiento de grupos de personas\" y \"Seguimiento a gran escala\".",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Se alinea más con el enfoque de la eficiencia en el procesamiento de imágenes y la reducción de la complejidad computacional.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper no es especificado en el texto proporcionado.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper es presentar un algoritmo de re-identificación de personas en múltiples cámaras que no se superponen, basado en un modelo de canal visual, con el objetivo de mejorar la eficiencia y reducir la complejidad computacional para su implementación en plataformas integradas.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo son la precisión en Rank 1 y en Rank 10. Los valores alcanzados son 40.7% en Rank 1 y 84% en Rank 10 en promedio.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron múltiples cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas incluye el uso de características de color infladas para reducir el tiempo de computación, evaluada en diferentes bases de datos experimentales y logrando una precisión de hasta un 40.7% en el rango 1 y 84% en el rango 10 en promedio. Se implementó en una plataforma SOC-FPGA para procesamiento en tiempo real a 50 FPS con resolución de 1280×720 HD y 25 FPS con resolución de 1920×1080 FHD, logrando una mejora en el rendimiento y reducción en la complejidad computacional."
+        }
+    },
+    {
+        "title": "Binder1.pdf",
+        "criteria": {
+            "Enfoque": "Long-Term Person Re-Identiﬁcation",
+            "Datasets": "Celeb-reID",
+            "Descriptores": "Vector-Neuron Capsules",
+            "Clasificadores": "No mencionado",
+            "Precisión": "No mencionado"
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo son el cambio de ropa a lo largo del tiempo y la captura de imágenes de famosos en la calle para formar un conjunto de datos de reconocimiento de personas a largo plazo.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Este artículo utiliza características biométricas relacionadas con la vestimenta de las personas para la re-identificación a largo plazo.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Algunas de las técnicas de preprocesamiento de imágenes para mejorar la calidad incluyen el suavizado, la reducción de ruido, el aumento de contraste y la ecualización del histograma.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características incluyen el uso de cápsulas de neuronas vectoriales.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y algoritmos de aprendizaje automático que re-identifican a personas son los Vector-Neuron Capsules.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El modelo y algoritmo de aprendizaje profundo para re-identificación de personas es Vector-Neuron Capsules.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "Identificación de personas en movimiento.",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de adoptar neuronas de vector en lugar de neuronas escalares.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper es \"Celeb-reID\".",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es introducir un nuevo dataset llamado \"Celeb-reID\" y proponer el uso de cápsulas de neuronas vectoriales para la re-identificación de personas a largo plazo.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs y/o GPUs.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas son la precisión. Los valores de precisión alcanzados no son proporcionados en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizó un total de 34,186 imágenes en el estudio.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "Se utilizó la metodología de vector-neuron capsules en la re-identificación de personas."
+        }
+    },
+    {
+        "title": "Data-Driven_Logical_Topology_Inference_for_Managing_Safety_and_Re-Identification_of_Patients_Through_Multi-Cameras_IoT.pdf",
+        "criteria": {
+            "Enfoque": "Mejorar la seguridad de los pacientes en hospitales a través del uso de Multi-Cámaras IoT.",
+            "Datasets": "No específicamente mencionado en el texto.",
+            "Descriptores": "Multi-Cámaras IoT, Internet de las Cosas, tecnologías IoT, cámaras de video distribuidas.",
+            "Clasificadores": "No específicamente mencionado en el texto.",
+            "Precisión": "Mejorar la precisión en la identificación de pacientes para aumentar la seguridad."
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo son la capacidad de análisis de datos, inteligencia digital para la salud, uso de cámaras inteligentes para la seguridad y re-identificación de pacientes, y aplicación de IoT en monitoreo con cámaras de video distribuidas.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Las características biométricas que utiliza este artículo son la re-identificación de pacientes a través de cámaras inteligentes en espacios de salud mental.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Algunas técnicas de preprocesamiento de imágenes incluyen la eliminación de ruido, corrección de contraste, suavizado y mejora de la nitidez.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Algunas técnicas de visión por computadora utilizadas para la extracción de características son el aprendizaje profundo, el análisis de texturas, el análisis de formas y el análisis de movimiento.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Algunos modelos y algoritmos de aprendizaje automático para la re-identificación de personas son el reconocimiento facial, el aprendizaje profundo (deep learning) y los algoritmos de visión por computadora como YOLO (You Only Look Once) y SSD (Single Shot MultiBox Detector).",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Algunos modelos y algoritmos de aprendizaje profundo para re-identificar a personas son la clasificación y el reconocimiento de objetos utilizando redes neuronales convolucionales.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "Re-identificación de pacientes a través de cámaras IoT",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de tecnología de Internet de las Cosas (IoT) y cámaras inteligentes para la gestión de la seguridad en hospitales de salud mental y espacios relevantes.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper no se especifica en el texto proporcionado.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es presentar una propuesta de inferencia de topología lógica basada en datos para gestionar la seguridad y la reidentificación de pacientes a través de IoT con múltiples cámaras.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza múltiples cámaras IoT para la inferencia de topología lógica y la gestión de seguridad de los pacientes.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo no están especificadas en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron múltiples cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, visión por computador y modelos y algoritmos de machine learning o deep learning se basa en la inferencia de topología lógica de datos para gestionar la seguridad y re-identificación de pacientes a través de múltiples cámaras IoT."
+        }
+    },
+    {
+        "title": "IET Signal Processing - 2017 - Brkić - Face  hairstyle and clothing colour de‐identification in video sequences.pdf",
+        "criteria": {
+            "Enfoque": "De-identification",
+            "Datasets": "Video sequences",
+            "Descriptores": "Faces, hairstyles, clothing colours",
+            "Clasificadores": "Deep convolutional generative adversarial network",
+            "Precisión": "Naturalidad"
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo son la cara, el peinado y el color de la ropa.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Las características biométricas que utiliza este artículo son faces, hairstyles y clothing colours.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Algunas técnicas de preprocesamiento de imágenes que se utilizan para mejorar la calidad de la imagen son la detección de rostros y siluetas, la generación de caras sintéticas mediante redes generativas adversariales convolucionales, la modificación de peinados y el cambio de colores de la ropa.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características son la detección de rostros y siluetas humanas en videos, así como el uso de redes generativas adversariales convolucionales para sintetizar caras aleatorias.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "El sistema propuesto utiliza un deep convolutional generativo adversarial network para re-identificar a personas en video data.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y algoritmos de aprendizaje profundo que re-identifican a personas en este estudio son deep convolutional generative adversarial networks.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "El artículo se refiere al enfoque de 'De-identificación de personas en video'.",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de de-identificación de biometric y no biometric features.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper no está especificado en el texto proporcionado.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es presentar un sistema de desidentificación de personas en datos de video que desidentifica características biométricas y no biométricas, como caras, peinados y colores de ropa.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs y/o GPUs para el procesamiento de imágenes y video.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo son la precisión y los valores alcanzados no están especificados en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron múltiples cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas en este estudio incluye la detección de rostros y siluetas humanas en video, la sustitución de rostros detectados por rostros sintetizados aleatorios obtenidos con una red generativa adversaria convolucional profunda, la renderización de estilos de peinado alternativos sobre los rostros sintetizados y el recoloreado de la silueta humana."
+        }
+    },
+    {
+        "title": "Narayan_Person_Re-Identification_for_CVPR_2017_paper.pdf",
+        "criteria": {
+            "Enfoque": "Análisis automatizado de grandes cantidades de datos de video.",
+            "Datasets": "Conjunto de datos de video.",
+            "Descriptores": "Técnicas de detección de personas.",
+            "Clasificadores": "Estrategia de seguimiento por detección.",
+            "Precisión": "Mejora significativa en la calidad de la vigilancia."
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo incluyen identificación y reconocimiento de entidades, conectando entidades temporalmente en entornos concurridos, modelado de apariencia humana, biometría facial y restricciones de ubicación entre cámaras.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Este artículo utiliza características biométricas como apariencia humana, biometría facial y restricciones de ubicación en cámaras.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Algunas técnicas de preprocesamiento de imágenes que se utilizan para mejorar la calidad de la imagen incluyen la corrección de color, el aumento de contraste, la reducción de ruido y el enfoque de la imagen.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características son identificación y reconocimiento de entidades.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y/o algoritmos de aprendizaje automático que re-identifican a personas son basados en la detección de entidades mediante técnicas de identificación y reconocimiento, y la asociación de entidades temporalmente en entornos concurridos. Se utilizan modelos que modelan la apariencia humana, biometría facial y restricciones de ubicación a lo largo de cámaras.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y/o algoritmos de aprendizaje profundo que re-identifican a personas son los de person re-identiﬁcation, que incluyen técnicas de identificación y reconocimiento, así como la asociación temporal de entidades en entornos con múltiples cámaras.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "Identificación y seguimiento de grupos de personas",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de \"person re-identiﬁcation\".",
+            "¿Cuál es el datasets utilizado en este paper?": "Los datasets utilizados en este paper son CamNet y DukeMTMC.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es presentar un enfoque novedoso para el seguimiento de personas dentro del contexto de la asociación de entidades en sistemas de cámaras múltiples distribuidas a gran escala.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs y GPUs.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo son precisión y las métricas de seguimiento. Los valores de precisión alcanzados no están especificados en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se han realizado experimentos en un circuito cerrado de cámaras y se utilizaron dos cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas incluye la detección de entidades a través de técnicas de identificación y reconocimiento, así como la asociación temporal de entidades en entornos concurridos. Se reformula el seguimiento de personas como una tarea de re-identificación, modelando la apariencia humana, biometría facial y restricciones de ubicación entre cámaras, sin hacer suposiciones restrictivas sobre el número de personas en la escena. Se utiliza un algoritmo de inferencia simple y eficiente para validar la aproximación, con resultados superiores en comparación con otros métodos existentes en los conjuntos de datos CamNeT y DukeMTMC."
+        }
+    },
+    {
+        "title": "s13428-021-01544-2.pdf",
+        "criteria": {
+            "Enfoque": "Comparar niveles de mirada identificados por algoritmo de visión por computadora con anotadores humanos en datos de seguimiento ocular móvil.",
+            "Datasets": "Datos de seguimiento ocular móvil recolectados en un estudio observacional prospectivo.",
+            "Descriptores": "Algoritmo de visión por computadora y tres anotadores humanos.",
+            "Clasificadores": "Algoritmo de visión por computadora y anotadores humanos.",
+            "Precisión": "57% para YOLOv2 y 72% para OpenPose al comparar análisis automáticos con un conjunto de datos existente."
+        },
+        "questions": {
+            "¿Cuáles son las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo?": "Las características soft-biométricas y de descripción visual general de una persona que utiliza este artículo son la medición del comportamiento visual, el seguimiento de la mirada durante interacciones dinámicas y la identificación de áreas de interés manualmente o mediante algoritmos de visión por computadora.",
+            "¿Cuáles son las características biométricas que utiliza este artículo?": "Las características biométricas que utiliza el artículo son el seguimiento ocular mediante gafas de seguimiento ocular móviles.",
+            "¿Qué técnicas de preprocesamiento de imágenes se utilizan para mejorar la calidad de la imagen y cuáles son estas técnicas?": "Las técnicas de preprocesamiento de imágenes utilizadas para mejorar la calidad de la imagen son la manual annotation de áreas de interés y el uso de algoritmos de visión por computadora.",
+            "¿Qué técnicas de visión por computadora se utilizan para la extracción de características y cuáles son estas técnicas?": "Las técnicas de visión por computadora utilizadas para la extracción de características son la manualmente anotada y el uso de algoritmos de visión por computadora.",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje automático re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y/o algoritmos que se utilizan para re-identificar a personas en este estudio son los algoritmos de visión por computadora y los algoritmos de re-identificación (Re-ID).",
+            "¿Cuáles son los modelos y/o algoritmos de aprendizaje profundo re-identifica a personas y cuáles son estos modelos y/o algoritmos?": "Los modelos y/o algoritmos de aprendizaje profundo que pueden ser utilizados para re-identificar a personas en este estudio son los algoritmos de identificación de Re-ID.",
+            "¿A cuál de estos enfoques se refiere el artículo, dígame el que mejor se ajuste: 'Búsqueda de personas desaparecidas o sospechosas, Seguimiento y recuento de personas, Notificación de movimientos inusuales o sospechosos, Integración con bases de datos externas, Elaboración de informes y análisis de patrones, Identificación y seguimiento de grupos de personas, Detección de cambios de aspecto, Seguimiento a gran escala, Identificación de múltiples personas, Mayor precisión en entornos abarrotados, Identificación de personas en movimiento, Detección de objetos abandonados, Detección de personas desaparecidas, Identificación de movimientos sospechosos o inusuales' o existen otros?": "El enfoque del artículo se refiere a la identificación y seguimiento de grupos de personas mediante el uso de datos de seguimiento ocular móvil.",
+            "¿A cuál de estos enfoques se alinea más este modelo?": "Este modelo se alinea más con el enfoque de utilizar algoritmos de visión por computadora para analizar datos de seguimiento ocular.",
+            "¿Cuál es el datasets utilizado en este paper?": "El dataset utilizado en este paper consiste en siete videos de consultas entre médicos y pacientes en un hospital de medicina interna en los Países Bajos.",
+            "Dime cuál es el propósito de este paper científico.": "El propósito de este paper científico es comparar los resultados de la anotación manual de datos de seguimiento ocular móvil con los resultados de un algoritmo de visión por computadora.",
+            "¿Este trabajo utiliza CPUs y/o GPUs?": "Sí, este trabajo utiliza CPUs y GPUs para analizar los datos de seguimiento ocular.",
+            "Dime cuáles son las métricas de evaluación aplicadas en este trabajo y cuáles son los valores de precisión alcanzados.": "Las métricas de evaluación aplicadas en este trabajo son la interrater reliability entre las áreas de interés anotadas manualmente y por el algoritmo de visión por computadora. Los valores de precisión alcanzados no fueron mencionados en el texto proporcionado.",
+            "Dime si se han realizado los experimentos en un circuito cerrado de cámaras y cuántas se utilizaron.": "Sí, se realizaron experimentos en un circuito cerrado de cámaras y se utilizaron siete cámaras.",
+            "Por favor, indícame la metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, las técnicas de visión por computador y modelos y algoritmos de machine learning o deep learning.": "La metodología aplicada en la re-identificación de personas utilizando técnicas de preprocesamiento, visión por computador y modelos y algoritmos de machine learning o deep learning es la comparación de resultados entre la anotación manual y un algoritmo de visión por computador en datos de seguimiento ocular móvil."
+        }
+    }
+]
